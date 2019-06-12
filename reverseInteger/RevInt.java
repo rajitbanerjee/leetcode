@@ -5,7 +5,7 @@
  * 2^31 − 1]. For the purpose of this problem, assume that your function returns
  * 0 when the reversed integer overflows.
  */
-class RevInt {
+public class RevInt {
     public int reverse(int x) {
         long copy = x, rev = 0;
 
