@@ -1,3 +1,5 @@
+package longestCommonPrefix;
+
 /**
  * https://leetcode.com/problems/longest-common-prefix/ : Write a function to
  * find the longest common prefix string amongst an array of strings. If there
@@ -11,9 +13,9 @@ public class Prefix {
         String prefix = ""; // initialise prefix
 
         // find the smallest string
-        for (int i = 0; i < strs.length; i++) {
-            if (strs[i].length() < minStr.length())
-                minStr = strs[i];
+        for (String str : strs) {
+            if (str.length() < minStr.length())
+                minStr = str;
         }
 
         char[] letters = new char[strs.length];
@@ -22,11 +24,11 @@ public class Prefix {
                 letters[j] = strs[j].charAt(i);
             }
             char min = letters[0], max = letters[0];
-            for (int j = 0; j < letters.length; j++) {
-                if (letters[j] < min)
-                    min = letters[j];
-                if (letters[j] > max)
-                    max = letters[j];
+            for (char letter : letters) {
+                if (letter < min)
+                    min = letter;
+                if (letter > max)
+                    max = letter;
             }
             // if all the letters at some index are same, then form prefix
             if (min == max)

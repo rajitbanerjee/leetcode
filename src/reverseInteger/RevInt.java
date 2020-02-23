@@ -1,3 +1,5 @@
+package reverseInteger;
+
 /**
  * https://leetcode.com/problems/reverse-integer/ : Given a 32-bit signed integer,
  * reverse digits of an integer. Assume we are dealing with an environment which
