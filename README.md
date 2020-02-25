@@ -4,6 +4,7 @@ Written using Java 13 and JUnit 5.4 on IntelliJ IDEA.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](./src/mergeSortedLists/Merge.java) | Easy |
 |20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Java](./src/validParentheses/Brackets.java) | Easy |
 |1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/twoSum/TwoSum.java) | Easy |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Java](https://github.com/rajitbanerjee/leetcode/blob/master/src/reverseInteger/RevInt.java) | Easy |
