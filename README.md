@@ -4,6 +4,7 @@ Written using Java 13 and JUnit 5.4 on IntelliJ IDEA.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|27| [Remove Element](https://leetcode.com/problems/remove-element) | [Java](./src/removeElement/Remove.java) | Easy |
 |58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Java](./src/lengthOfLastWord/Word.java) | Easy |
 |69| [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](./src/sqrtX/Sqrt.java) | Easy |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [Java](./src/plusOne/Plus.java) | Easy |
