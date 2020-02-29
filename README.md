@@ -4,6 +4,7 @@ Written using Java 13 and JUnit 5.4 on IntelliJ IDEA.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|66| [Plus One](https://leetcode.com/problems/plus-one) | [Java](./src/plusOne/Plus.java) | Easy |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](./src/searchInsertPosition/Search.java) | Easy | 
 |28| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](./src/implementStrStr/Implement.java) | Easy |
 |1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | [Java](./src/nthTribonacciNumber/Tribonacci.java) | Easy |
