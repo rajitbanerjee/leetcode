@@ -4,6 +4,7 @@ Written using Java 13 and JUnit 5.4 on IntelliJ IDEA.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|69| [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](./src/sqrtX/Sqrt.java) | Easy |
 |66| [Plus One](https://leetcode.com/problems/plus-one) | [Java](./src/plusOne/Plus.java) | Easy |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](./src/searchInsertPosition/Search.java) | Easy | 
 |28| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](./src/implementStrStr/Implement.java) | Easy |
