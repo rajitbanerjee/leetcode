@@ -20,7 +20,7 @@ public class Implement {
                 return -1;
             }
             // check if the entire needle is present at the previously found indices
-            for (int i: indices) {
+            for (int i : indices) {
                 if (haystack.substring(i).startsWith(needle)) {
                     return i;
                 }

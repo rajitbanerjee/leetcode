@@ -3,6 +3,12 @@ package validParentheses;
 import java.util.Stack;
 
 public class Brackets {
+    private static boolean isSameType(char ch1, char ch2) {
+        return ch1 == '(' && ch2 == ')' ||
+                ch1 == '{' && ch2 == '}' ||
+                ch1 == '[' && ch2 == ']';
+    }
+
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
@@ -22,11 +28,5 @@ public class Brackets {
             }
         }
         return stack.isEmpty();
-    }
-
-    private static boolean isSameType(char ch1, char ch2) {
-        return ch1 == '(' && ch2 == ')' ||
-                ch1 == '{' && ch2 == '}' ||
-                ch1 == '[' && ch2 == ']';
     }
 }
