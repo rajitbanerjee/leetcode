@@ -20,4 +20,5 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 66   | [Plus One](https://leetcode.com/problems/plus-one)                                                       | [Java](./src/plusOne/Plus.java)                   | Easy       |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                           | [Java](./src/sqrtX/Sqrt.java)                     | Easy       |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                  | [Java](./src/invertBinaryTree/Invert.java)        | Easy       |
+| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)              | [Python](./src/deleteListNode/delete.py)          | Easy       |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)                           | [Java](./src/nthTribonacciNumber/Tribonacci.java) | Easy       |
