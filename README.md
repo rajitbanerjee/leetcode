@@ -15,6 +15,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element)                                           | [Java](./src/removeElement/Remove.java)           | Easy       |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                    | [Java](./src/implementStrStr/Implement.java)      | Easy       |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position)                           | [Java](./src/searchInsertPosition/Search.java)    | Easy       |
+| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/)                                            | [Python](./src/countAndSay/count.py)              | Easy       |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)                                 | [Java](./src/lengthOfLastWord/Word.java)          | Easy       |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one)                                                       | [Java](./src/plusOne/Plus.java)                   | Easy       |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                           | [Java](./src/sqrtX/Sqrt.java)                     | Easy       |
