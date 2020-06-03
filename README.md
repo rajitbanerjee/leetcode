@@ -7,6 +7,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                        | [Java](./src/twoSum/TwoSum.java)                  | Easy       |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                        | [Python](./src/addTwoNumbers/add.py)              | Medium     |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                                         | [Java](./src/reverseInteger/RevInt.java)          | Easy       |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                        | [Python](./src/stringToInt/atoi.py)               | Medium     |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number)                                     | [Java](./src/palindromeInteger/Palin.java)        | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                                       | [Java](./src/romanToInteger/RomToInt.java)        | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)                             | [Java](./src/longestCommonPrefix/Prefix.java)     | Easy       |
