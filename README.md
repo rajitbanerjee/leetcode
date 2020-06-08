@@ -22,6 +22,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 66   | [Plus One](https://leetcode.com/problems/plus-one)                                                       | [Java](./src/plusOne/Plus.java)                   | Easy       |
 | 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx)                                                           | [Java](./src/sqrtX/Sqrt.java)                     | Easy       |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                  | [Java](./src/invertBinaryTree/Invert.java)        | Easy       |
+| 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                              | [Python](./src/powerOf2/power.py)                 | Easy       |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)              | [Python](./src/deleteListNode/delete.py)          | Easy       |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                          | [Python](./src/reverseString/rev.py)              | Easy       |
 | 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)           | [Python](./src/queueReconstruct/queue.py)         | Medium     |
