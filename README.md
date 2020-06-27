@@ -2,49 +2,143 @@
 
 My solutions to some problems from [LeetCode](https://leetcode.com/problemset/all/).
 
-| #    | Title                                                                                                                 | Solution                                                                                       | Difficulty |
-| ---- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------- |
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                     | [Java](./src/twoSum/TwoSum.java)                                                               | Easy       |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                     | [Python](./src/addTwoNumbers/add.py)                                                           | Medium     |
-| 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                     | [Java](./src/reverseInteger/RevInt.java)                                                       | Easy       |
-| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                     | [Python](./src/stringToInt/atoi.py)                                                            | Medium     |
-| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                 | [Java](./src/palindromeInteger/Palin.java)                                                     | Easy       |
-| 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                   | [Java](./src/romanToInteger/RomToInt.java)                                                     | Easy       |
-| 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                         | [Java](./src/longestCommonPrefix/Prefix.java)                                                  | Easy       |
-| 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                 | [Java](./src/validParentheses/Brackets.java)                                                   | Easy       |
-| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                       | [Java](./src/mergeSortedLists/Merge.java)                                                      | Easy       |
-| 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)             | [Java](./src/removeDupSorted/Remove.java)                                                      | Easy       |
-| 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                       | [Java](./src/removeElement/Remove.java)                                                        | Easy       |
-| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                                 | [Java](./src/implementStrStr/Implement.java)                                                   | Easy       |
-| 30   | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](./src/substringWordConcat/sub.py)                                                     | Hard       |
-| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                       | [Java](./src/searchInsertPosition/Search.java), [Python](./src/searchInsertPosition/search.py) | Easy       |
-| 38   | [Count and Say](https://leetcode.com/problems/count-and-say/)                                                         | [Python](./src/countAndSay/count.py)                                                           | Easy       |
-| 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                       | [Python](./src/firstMissingPositive/first.py)                                                  | Hard       |
-| 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                             | [Java](./src/lengthOfLastWord/Word.java)                                                       | Easy       |
-| 60   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)                                           | [Python](./src/permSequence/perm.py)                                                           | Medium     |
-| 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                                   | [Java](./src/plusOne/Plus.java)                                                                | Easy       |
-| 69   | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                       | [Java](./src/sqrtX/Sqrt.java)                                                                  | Easy       |
-| 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                             | [Python](./src/sortColors/sort.py)                                                             | Medium     |
-| 96   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)                               | [Python](./src/uniqueBST/bst.py)                                                               | Medium     |
-| 129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                                   | [Python](./src/sumRootToLeaf/sum.py)                                                           | Medium     |
-| 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                               | [Python](./src/surroundedRegions/board.py)                                                     | Medium     |
-| 137  | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                                   | [Python](./src/singleNumberII/once.py)                                                         | Medium     |
-| 222  | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)                                 | [Python](./src/countTreeNodes/count.py)                                                        | Medium     |
-| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                               | [Java](./src/invertBinaryTree/Invert.java)                                                     | Easy       |
-| 231  | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                           | [Python](./src/powerOf2/power.py)                                                              | Easy       |
-| 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)                           | [Python](./src/deleteListNode/delete.py)                                                       | Easy       |
-| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                         | [Python](./src/validAnagram/ana.py)                                                            | Easy       |
-| 258  | [Add Digits](https://leetcode.com/problems/add-digits/)                                                               | [Python](./src/addDigits/add.py)                                                               | Easy       |
-| 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)                                                               | [Python](./src/hIndexII/index.py)                                                              | Medium     |
-| 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 | [Python](./src/findDuplicateNum/find.py)                                                       | Medium     |
-| 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                       | [Python](./src/reverseString/rev.py)                                                           | Easy       |
-| 380  | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                             | [Python](./src/insertDelecte/set.py)                                                           | Medium     |
-| 392  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                       | [Python](./src/isSubsequence/sub.py)                                                           | Easy       |
-| 406  | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)                        | [Python](./src/queueReconstruct/queue.py)                                                      | Medium     |
-| 468  | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)                                             | [Python](./src/validateIP/ip.py)                                                               | Medium     |
-| 518  | [Coin Change 2](https://leetcode.com/problems/coin-change-2/)                                                         | [Python](./src/coinChange2/change.py)                                                          | Medium     |
-| 528  | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)                                     | [Python](./src/randomPickWeight/weights.py)                                                    | Medium     |
-| 700  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                       | [Python](./src/searchBST/search.py)                                                            | Easy       |
-| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)                                             | [Python](./src/twoCityScheduling/sched.py)                                                     | Easy       |
-| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                       | [Java](./src/nthTribonacciNumber/Tribonacci.java)                                              | Easy       |
-| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-toe-game/)                     | [Python](./src/ticTacToe/winner.py)                                                            | Easy       |
+| #    | Title                                           | Solution                   | Difficulty |
+| ---- | ----------------------------------------------- | -------------------------- | ---------- |
+| 1    | [Two Sum][1]                                    | [Java][1a]                 | Easy       |
+| 2    | [Add Two Numbers][2]                            | [Python][2a]               | Medium     |
+| 7    | [Reverse Integer][7]                            | [Java][7a]                 | Easy       |
+| 8    | [String to Integer (atoi)][8]                   | [Python][8a]               | Medium     |
+| 9    | [Palindrome Number][9]                          | [Java][9a]                 | Easy       |
+| 13   | [Roman to Integer][13]                          | [Java][13a]                | Easy       |
+| 14   | [Longest Common Prefix][14]                     | [Java][14a]                | Easy       |
+| 20   | [Valid Parentheses][20]                         | [Java][20a]                | Easy       |
+| 21   | [Merge Two Sorted Lists][21]                    | [Java][21a]                | Easy       |
+| 26   | [Remove Duplicates from Sorted Array][26]       | [Java][26a]                | Easy       |
+| 27   | [Remove Element][27]                            | [Java][27a]                | Easy       |
+| 28   | [Implement strStr()][28]                        | [Java][28a]                | Easy       |
+| 30   | [Substring with Concatenation of All Words][30] | [Python][30a]              | Hard       |
+| 35   | [Search Insert Position][35]                    | [Java][35a], [Python][35b] | Easy       |
+| 38   | [Count and Say][38]                             | [Python][38a]              | Easy       |
+| 41   | [First Missing Positive][41]                    | [Python][41a]              | Hard       |
+| 58   | [Length of Last Word][58]                       | [Java][58a]                | Easy       |
+| 60   | [Permutation Sequence][60]                      | [Python][60a]              | Medium     |
+| 66   | [Plus One][66]                                  | [Java][66a]                | Easy       |
+| 69   | [Sqrt(x)][69]                                   | [Java][69a]                | Easy       |
+| 75   | [Sort Colors][75]                               | [Python][75a]              | Medium     |
+| 96   | [Unique Binary Search Trees][96]                | [Python][96a]              | Medium     |
+| 100  | [Same Tree][100]                                | [Python][100a]             | Easy       |
+| 129  | [Sum Root to Leaf Numbers][129]                 | [Python][129a]             | Medium     |
+| 130  | [Surrounded Regions][130]                       | [Python][130a]             | Medium     |
+| 137  | [Single Number II][137]                         | [Python][137a]             | Medium     |
+| 222  | [Count Complete Tree Nodes][222]                | [Python][222a]             | Medium     |
+| 226  | [Invert Binary Tree][226]                       | [Java][226a]               | Easy       |
+| 231  | [Power of Two][231]                             | [Python][231a]             | Easy       |
+| 237  | [Delete Node in a Linked List][237]             | [Python][237a]             | Easy       |
+| 242  | [Valid Anagram][242]                            | [Python][242a]             | Easy       |
+| 258  | [Add Digits][258]                               | [Python][258a]             | Easy       |
+| 275  | [H-Index II][275]                               | [Python][275a]             | Medium     |
+| 287  | [Find the Duplicate Number][287]                | [Python][287a]             | Medium     |
+| 344  | [Reverse String][344]                           | [Python][344a]             | Easy       |
+| 380  | [Insert Delete GetRandom O(1)][380]             | [Python][380a]             | Medium     |
+| 392  | [Is Subsequence][392]                           | [Python][392a]             | Easy       |
+| 406  | [Queue Reconstruction by Height][406]           | [Python][406a]             | Medium     |
+| 468  | [Validate IP Address][468]                      | [Python][468a]             | Medium     |
+| 518  | [Coin Change 2][518]                            | [Python][518a]             | Medium     |
+| 528  | [Random Pick with Weight][528]                  | [Python][528a]             | Medium     |
+| 700  | [Search in a Binary Search Tree][700]           | [Python][700a]             | Easy       |
+| 1029 | [Two City Scheduling][1029]                     | [Python][1029a]            | Easy       |
+| 1137 | [N-th Tribonacci Number][1137]                  | [Java][1137a]              | Easy       |
+| 1275 | [Find Winner on a Tic Tac Toe Game][1275]       | [Python][1275a]            | Easy       |
+
+[1]: https://leetcode.com/problems/two-sum/
+[1a]: ./src/twoSum/TwoSum.java
+[2]: https://leetcode.com/problems/add-two-numbers/
+[2a]: ./src/addTwoNumbers/add.py
+[7]: https://leetcode.com/problems/reverse-integer/
+[7a]: ./src/reverseInteger/RevInt.java
+[8]: https://leetcode.com/problems/string-to-integer-atoi/
+[8a]: ./src/stringToInt/atoi.py
+[9]: https://leetcode.com/problems/palindrome-number/
+[9a]: ./src/palindromeInteger/Palin.java
+[13]: https://leetcode.com/problems/roman-to-integer/
+[13a]: ./src/romanToInteger/RomToInt.java
+[14]: https://leetcode.com/problems/longest-common-prefix/
+[14a]: ./src/longestCommonPrefix/Prefix.java
+[20]: https://leetcode.com/problems/valid-parentheses/
+[20a]: ./src/validParentheses/Brackets.java
+[21]: https://leetcode.com/problems/merge-two-sorted-lists/
+[21a]: ./src/mergeSortedLists/Merge.java
+[26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[26a]: ./src/removeDupSorted/Remove.java
+[27]: https://leetcode.com/problems/remove-element/
+[27a]: ./src/removeElement/Remove.java
+[28]: https://leetcode.com/problems/implement-strstr/
+[28a]: ./src/implementStrStr/Implement.java
+[30]: https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+[30a]: ./src/substringWordConcat/sub.py
+[35]: https://leetcode.com/problems/search-insert-position/
+[35a]: ./src/searchInsertPosition/Search.java
+[35b]: ./src/searchInsertPosition/search.py
+[38]: https://leetcode.com/problems/count-and-say/
+[38a]: ./src/countAndSay/count.py
+[41]: https://leetcode.com/problems/first-missing-positive/
+[41a]: ./src/firstMissingPositive/first.py
+[58]: https://leetcode.com/problems/length-of-last-word/
+[58a]: ./src/lengthOfLastWord/Word.java
+[60]: https://leetcode.com/problems/permutation-sequence/
+[60a]: ./src/permSequence/perm.py
+[66]: https://leetcode.com/problems/plus-one/
+[66a]: ./src/plusOne/Plus.java
+[69]: https://leetcode.com/problems/sqrtx/
+[69a]: ./src/sqrtX/Sqrt.java
+[75]: https://leetcode.com/problems/sort-colors/
+[75a]: ./src/sortColors/sort.py
+[96]: https://leetcode.com/problems/unique-binary-search-trees/
+[96a]: ./src/uniqueBST/bst.py
+[100]: https://leetcode.com/problems/same-tree/
+[100a]: ./src/sameTree/same.py
+[129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
+[129a]: ./src/sumRootToLeaf/sum.py
+[130]: https://leetcode.com/problems/surrounded-regions/
+[130a]: ./src/surroundedRegions/board.py
+[137]: https://leetcode.com/problems/single-number-ii/
+[137a]: ./src/singleNumberII/once.py
+[222]: https://leetcode.com/problems/count-complete-tree-nodes/
+[222a]: ./src/countTreeNodes/count.py
+[226]: https://leetcode.com/problems/invert-binary-tree/
+[226a]: ./src/invertBinaryTree/Invert.java
+[231]: https://leetcode.com/problems/power-of-two/
+[231a]: ./src/powerOf2/power.py
+[237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
+[237a]: ./src/deleteListNode/delete.py
+[242]: https://leetcode.com/problems/valid-anagram/
+[242a]: ./src/validAnagram/ana.py
+[258]: https://leetcode.com/problems/add-digits/
+[258a]: ./src/addDigits/add.py
+[275]: https://leetcode.com/problems/h-index-ii/
+[275a]: ./src/hIndexII/index.py
+[287]: https://leetcode.com/problems/find-the-duplicate-number/
+[287a]: ./src/findDuplicateNum/find.py
+[344]: https://leetcode.com/problems/reverse-string/
+[344a]: ./src/reverseString/rev.py
+[380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
+[380a]: ./src/insertDelecte/set.py
+[392]: https://leetcode.com/problems/is-subsequence/
+[392a]: ./src/isSubsequence/sub.py
+[406]: https://leetcode.com/problems/queue-reconstruction-by-height
+[406a]: ./src/queueReconstruct/queue.py
+[468]: https://leetcode.com/problems/validate-ip-address/
+[468a]: ./src/validateIP/ip.py
+[518]: https://leetcode.com/problems/coin-change-2/
+[518a]: ./src/coinChange2/change.py
+[528]: https://leetcode.com/problems/random-pick-with-weight/
+[528a]: ./src/randomPickWeight/weights.py
+[700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
+[700a]: ./src/searchBST/search.py
+[1029]: https://leetcode.com/problems/two-city-scheduling/
+[1029a]: ./src/twoCityScheduling/sched.py
+[1137]: https://leetcode.com/problems/n-th-tribonacci-number/
+[1137a]: ./src/nthTribonacciNumber/Tribonacci.java
+[1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
+[1275a]: ./src/ticTacToe/winner.py
+
