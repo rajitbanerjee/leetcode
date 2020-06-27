@@ -40,6 +40,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 287  | [Find the Duplicate Number][287]                | [Python][287a]             | Medium     |
 | 344  | [Reverse String][344]                           | [Python][344a]             | Easy       |
 | 380  | [Insert Delete GetRandom O(1)][380]             | [Python][380a]             | Medium     |
+| 387  | [First Unique Character in a String][387]       | [Python][387a]             | Easy       |
 | 392  | [Is Subsequence][392]                           | [Python][392a]             | Easy       |
 | 406  | [Queue Reconstruction by Height][406]           | [Python][406a]             | Medium     |
 | 468  | [Validate IP Address][468]                      | [Python][468a]             | Medium     |
@@ -123,6 +124,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [344a]: ./src/reverseString/rev.py
 [380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
 [380a]: ./src/insertDelecte/set.py
+[387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[387a]: ./src/firstUniqueChar/unique.py
 [392]: https://leetcode.com/problems/is-subsequence/
 [392a]: ./src/isSubsequence/sub.py
 [406]: https://leetcode.com/problems/queue-reconstruction-by-height
@@ -141,4 +144,3 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1137a]: ./src/nthTribonacciNumber/Tribonacci.java
 [1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
 [1275a]: ./src/ticTacToe/winner.py
-
