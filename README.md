@@ -47,6 +47,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 468  | [Validate IP Address][468]                      | [Python][468a]             | Medium     |
 | 518  | [Coin Change 2][518]                            | [Python][518a]             | Medium     |
 | 528  | [Random Pick with Weight][528]                  | [Python][528a]             | Medium     |
+| 617  | [Merge Two Binary Trees][617]                   | [Python][617a]             | Easy       |
 | 690  | [Employee Importance][690]                      | [Python][690a]             | Easy       |
 | 700  | [Search in a Binary Search Tree][700]           | [Python][700a]             | Easy       |
 | 788  | [Rotated Digits][788]                           | [Python][788a]             | Easy       |
@@ -141,6 +142,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [518a]: ./src/coinChange2/change.py
 [528]: https://leetcode.com/problems/random-pick-with-weight/
 [528a]: ./src/randomPickWeight/weights.py
+[617]: https://leetcode.com/problems/merge-two-binary-trees/
+[617a]: ./src/mergeBinaryTrees/merge.py
 [690]: https://leetcode.com/problems/employee-importance/
 [690a]: ./src/empImportance/emp.py
 [700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
