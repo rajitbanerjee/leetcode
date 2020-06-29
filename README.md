@@ -22,6 +22,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 41   | [First Missing Positive][41]                    | [Python][41a]              | Hard       |
 | 58   | [Length of Last Word][58]                       | [Java][58a]                | Easy       |
 | 60   | [Permutation Sequence][60]                      | [Python][60a]              | Medium     |
+| 62   | [Unique Paths][62]                              | [Python][62a]              | Medium     |
 | 66   | [Plus One][66]                                  | [Java][66a]                | Easy       |
 | 69   | [Sqrt(x)][69]                                   | [Java][69a]                | Easy       |
 | 75   | [Sort Colors][75]                               | [Python][75a]              | Medium     |
@@ -89,6 +90,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [58a]: ./src/lengthOfLastWord/Word.java
 [60]: https://leetcode.com/problems/permutation-sequence/
 [60a]: ./src/permSequence/perm.py
+[62]: https://leetcode.com/problems/unique-paths/
+[62a]: ./src/uniquePaths/unique.py
 [66]: https://leetcode.com/problems/plus-one/
 [66a]: ./src/plusOne/Plus.java
 [69]: https://leetcode.com/problems/sqrtx/
