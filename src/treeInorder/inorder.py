@@ -7,7 +7,7 @@ class TreeNode:
 
 
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def inorderTraversal(self, root: TreeNode) -> list:
         res, stk = [], []
         node = root
         while node or stk:
