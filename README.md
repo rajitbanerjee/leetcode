@@ -51,6 +51,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 617  | [Merge Two Binary Trees][617]                   | [Python][617a]             | Easy       |
 | 690  | [Employee Importance][690]                      | [Python][690a]             | Easy       |
 | 700  | [Search in a Binary Search Tree][700]           | [Python][700a]             | Easy       |
+| 783  | [Minimum Distance Between BST Nodes][783]       | [Python][783a]             | Easy       |
 | 788  | [Rotated Digits][788]                           | [Python][788a]             | Easy       |
 | 938  | [Range Sum of BST][938]                         | [Python][938a]             | Easy       |
 | 1029 | [Two City Scheduling][1029]                     | [Python][1029a]            | Easy       |
@@ -152,6 +153,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [690a]: ./src/empImportance/emp.py
 [700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
 [700a]: ./src/searchBST/search.py
+[783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+[783a]: ./src/minimumDistBST/dist.py
 [788]: https://leetcode.com/problems/rotated-digits/
 [788a]: ./src/rotatedDigits/dig.py
 [938]: https://leetcode.com/problems/range-sum-of-bst/
