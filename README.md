@@ -52,6 +52,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 690  | [Employee Importance][690]                      | [Python][690a]             | Easy       |
 | 700  | [Search in a Binary Search Tree][700]           | [Python][700a]             | Easy       |
 | 788  | [Rotated Digits][788]                           | [Python][788a]             | Easy       |
+| 938  | [Range Sum of BST][938]                         | [Python][938a]             | Easy       |
 | 1029 | [Two City Scheduling][1029]                     | [Python][1029a]            | Easy       |
 | 1137 | [N-th Tribonacci Number][1137]                  | [Java][1137a]              | Easy       |
 | 1275 | [Find Winner on a Tic Tac Toe Game][1275]       | [Python][1275a]            | Easy       |
@@ -153,6 +154,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [700a]: ./src/searchBST/search.py
 [788]: https://leetcode.com/problems/rotated-digits/
 [788a]: ./src/rotatedDigits/dig.py
+[938]: https://leetcode.com/problems/range-sum-of-bst/
+[938a]: ./src/rangeSumBST/sum.py
 [1029]: https://leetcode.com/problems/two-city-scheduling/
 [1029a]: ./src/twoCityScheduling/sched.py
 [1137]: https://leetcode.com/problems/n-th-tribonacci-number/
