@@ -44,6 +44,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 387  | [First Unique Character in a String][387]       | [Python][387a]             | Easy       |
 | 392  | [Is Subsequence][392]                           | [Python][392a]             | Easy       |
 | 406  | [Queue Reconstruction by Height][406]           | [Python][406a]             | Medium     |
+| 441  | [Arranging Coins][441]                          | [Python][441a]             | Easy       |
 | 468  | [Validate IP Address][468]                      | [Python][468a]             | Medium     |
 | 518  | [Coin Change 2][518]                            | [Python][518a]             | Medium     |
 | 528  | [Random Pick with Weight][528]                  | [Python][528a]             | Medium     |
@@ -134,6 +135,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [387a]: ./src/firstUniqueChar/unique.py
 [392]: https://leetcode.com/problems/is-subsequence/
 [392a]: ./src/isSubsequence/sub.py
+[441]: https://leetcode.com/problems/arranging-coins/
+[441a]: ./src/arrangingCoins/coins.py
 [406]: https://leetcode.com/problems/queue-reconstruction-by-height
 [406a]: ./src/queueReconstruct/queue.py
 [468]: https://leetcode.com/problems/validate-ip-address/
