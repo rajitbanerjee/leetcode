@@ -26,6 +26,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 66   | [Plus One][66]                                  | [Java][66a]                | Easy       |
 | 69   | [Sqrt(x)][69]                                   | [Java][69a]                | Easy       |
 | 75   | [Sort Colors][75]                               | [Python][75a]              | Medium     |
+| 94   | [Binary Tree Inorder Traversal][94]             | [Python][94a]              | Medium     |
 | 96   | [Unique Binary Search Trees][96]                | [Python][96a]              | Medium     |
 | 100  | [Same Tree][100]                                | [Python][100a]             | Easy       |
 | 129  | [Sum Root to Leaf Numbers][129]                 | [Python][129a]             | Medium     |
@@ -103,6 +104,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [69a]: ./src/sqrtX/Sqrt.java
 [75]: https://leetcode.com/problems/sort-colors/
 [75a]: ./src/sortColors/sort.py
+[94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[94a]: ./src/treeInorder/inorder.py
 [96]: https://leetcode.com/problems/unique-binary-search-trees/
 [96a]: ./src/uniqueBST/bst.py
 [100]: https://leetcode.com/problems/same-tree/
