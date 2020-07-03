@@ -57,6 +57,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 783  | [Minimum Distance Between BST Nodes][783]       | [Python][783a]             | Easy       |
 | 788  | [Rotated Digits][788]                           | [Python][788a]             | Easy       |
 | 938  | [Range Sum of BST][938]                         | [Python][938a]             | Easy       |
+| 957  | [Prison Cells After N Days][957]                | [Python][957a]             | Medium     |
 | 1025 | [Divisor Game][1025]                            | [Python][1025a]            | Easy       |
 | 1029 | [Two City Scheduling][1029]                     | [Python][1029a]            | Easy       |
 | 1137 | [N-th Tribonacci Number][1137]                  | [Java][1137a]              | Easy       |
@@ -170,6 +171,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [788a]: ./src/rotatedDigits/dig.py
 [938]: https://leetcode.com/problems/range-sum-of-bst/
 [938a]: ./src/rangeSumBST/sum.py
+[957]: https://leetcode.com/problems/prison-cells-after-n-days/
+[957a]: ./src/prisonNDays/prison.py
 [1025]: https://leetcode.com/problems/divisor-game/
 [1025a]: ./src/divisorGame/game.py
 [1029]: https://leetcode.com/problems/two-city-scheduling/
