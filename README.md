@@ -33,6 +33,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 129  | [Sum Root to Leaf Numbers][129]                 | [Python][129a]             | Medium     |
 | 130  | [Surrounded Regions][130]                       | [Python][130a]             | Medium     |
 | 137  | [Single Number II][137]                         | [Python][137a]             | Medium     |
+| 217  | [Contains Duplicate][217]                       | [Python][217a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                | [Python][222a]             | Medium     |
 | 226  | [Invert Binary Tree][226]                       | [Java][226a]               | Easy       |
 | 231  | [Power of Two][231]                             | [Python][231a]             | Easy       |
@@ -121,6 +122,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [130a]: ./src/surroundedRegions/board.py
 [137]: https://leetcode.com/problems/single-number-ii/
 [137a]: ./src/singleNumberII/once.py
+[217]: https://leetcode.com/problems/contains-duplicate/
+[217a]: ./src/containsDuplicate/dup.py
 [222]: https://leetcode.com/problems/count-complete-tree-nodes/
 [222a]: ./src/countTreeNodes/count.py
 [226]: https://leetcode.com/problems/invert-binary-tree/
