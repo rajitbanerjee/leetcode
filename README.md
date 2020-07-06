@@ -23,7 +23,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 58   | [Length of Last Word][58]                       | [Java][58a]                | Easy       |
 | 60   | [Permutation Sequence][60]                      | [Python][60a]              | Medium     |
 | 62   | [Unique Paths][62]                              | [Python][62a]              | Medium     |
-| 66   | [Plus One][66]                                  | [Java][66a]                | Easy       |
+| 66   | [Plus One][66]                                  | [Java][66a], Python[66b]   | Easy       |
 | 69   | [Sqrt(x)][69]                                   | [Java][69a]                | Easy       |
 | 75   | [Sort Colors][75]                               | [Python][75a]              | Medium     |
 | 94   | [Binary Tree Inorder Traversal][94]             | [Python][94a]              | Medium     |
@@ -107,6 +107,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [62a]: ./src/uniquePaths/unique.py
 [66]: https://leetcode.com/problems/plus-one/
 [66a]: ./src/plusOne/Plus.java
+[66b]: ./src/plusOne/plus.py
 [69]: https://leetcode.com/problems/sqrtx/
 [69a]: ./src/sqrtX/Sqrt.java
 [75]: https://leetcode.com/problems/sort-colors/
