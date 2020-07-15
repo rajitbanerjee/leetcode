@@ -35,6 +35,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 129  | [Sum Root to Leaf Numbers][129]                   | [Python][129a]             | Medium     |
 | 130  | [Surrounded Regions][130]                         | [Python][130a]             | Medium     |
 | 137  | [Single Number II][137]                           | [Python][137a]             | Medium     |
+| 151  | [Reverse Words in a String][151]                  | [Python][151a]             | Medium     |
 | 190  | [Reverse Bits][190]                               | [Python][190a]             | Easy       |
 | 217  | [Contains Duplicate][217]                         | [Python][217a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                  | [Python][222a]             | Medium     |
@@ -137,6 +138,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [130a]: ./src/surroundedRegions/board.py
 [137]: https://leetcode.com/problems/single-number-ii/
 [137a]: ./src/singleNumberII/once.py
+[151]: https://leetcode.com/problems/reverse-words-in-a-string/
+[151a]: ./src/reverseWords/rev.py
 [190]: https://leetcode.com/problems/reverse-bits/
 [190a]: ./src/reverseBits/rev.py
 [217]: https://leetcode.com/problems/contains-duplicate/
