@@ -20,6 +20,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 35   | [Search Insert Position][35]                      | [Java][35a], [Python][35b] | Easy       |
 | 38   | [Count and Say][38]                               | [Python][38a]              | Easy       |
 | 41   | [First Missing Positive][41]                      | [Python][41a]              | Hard       |
+| 50   | [Pow(x, n)][50]                                   | [Python][50a]              | Medium     |
 | 58   | [Length of Last Word][58]                         | [Java][58a]                | Easy       |
 | 60   | [Permutation Sequence][60]                        | [Python][60a]              | Medium     |
 | 62   | [Unique Paths][62]                                | [Python][62a]              | Medium     |
@@ -107,6 +108,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [38a]: ./src/countAndSay/count.py
 [41]: https://leetcode.com/problems/first-missing-positive/
 [41a]: ./src/firstMissingPositive/first.py
+[50]: https://leetcode.com/problems/powx-n/
+[50a]: ./src/powxn/pow.py
 [58]: https://leetcode.com/problems/length-of-last-word/
 [58a]: ./src/lengthOfLastWord/Word.java
 [60]: https://leetcode.com/problems/permutation-sequence/
