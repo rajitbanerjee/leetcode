@@ -25,6 +25,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 60   | [Permutation Sequence][60]                        | [Python][60a]              | Medium     |
 | 62   | [Unique Paths][62]                                | [Python][62a]              | Medium     |
 | 66   | [Plus One][66]                                    | [Java][66a], [Python][66b] | Easy       |
+| 67   | [Add Binary][67]                                  | [Python][67a]              | Easy       |
 | 69   | [Sqrt(x)][69]                                     | [Java][69a]                | Easy       |
 | 75   | [Sort Colors][75]                                 | [Python][75a]              | Medium     |
 | 78   | [Subsets][78]                                     | [Python][78a]              | Medium     |
@@ -120,6 +121,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [66]: https://leetcode.com/problems/plus-one/
 [66a]: ./src/plusOne/Plus.java
 [66b]: ./src/plusOne/plus.py
+[67]: https://leetcode.com/problems/add-binary/
+[67a]: ./src/addBinary/add.py
 [69]: https://leetcode.com/problems/sqrtx/
 [69a]: ./src/sqrtX/Sqrt.java
 [75]: https://leetcode.com/problems/sort-colors/
