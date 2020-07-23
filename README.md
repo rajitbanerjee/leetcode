@@ -48,6 +48,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 237  | [Delete Node in a Linked List][237]               | [Python][237a]             | Easy       |
 | 242  | [Valid Anagram][242]                              | [Python][242a]             | Easy       |
 | 258  | [Add Digits][258]                                 | [Python][258a]             | Easy       |
+| 260  | [Single Number III][260]                          | [Python][260a]             | Medium     |
 | 264  | [Ugly Number II][264]                             | [Python][264a]             | Medium     |
 | 275  | [H-Index II][275]                                 | [Python][275a]             | Medium     |
 | 287  | [Find the Duplicate Number][287]                  | [Python][287a]             | Medium     |
@@ -169,6 +170,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [242a]: ./src/validAnagram/ana.py
 [258]: https://leetcode.com/problems/add-digits/
 [258a]: ./src/addDigits/add.py
+[260]: https://leetcode.com/problems/single-number-iii/
+[260a]: ./src/singleNumIII/num.py
 [264]: https://leetcode.com/problems/ugly-number-ii/
 [264a]: ./src/uglyNumberII/ugly.py
 [275]: https://leetcode.com/problems/h-index-ii/
