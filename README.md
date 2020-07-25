@@ -39,6 +39,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 130  | [Surrounded Regions][130]                         | [Python][130a]             | Medium     |
 | 137  | [Single Number II][137]                           | [Python][137a]             | Medium     |
 | 151  | [Reverse Words in a String][151]                  | [Python][151a]             | Medium     |
+| 154  | [Reverse Words in a String][154]                  | [Python][154a]             | Hard       |
 | 190  | [Reverse Bits][190]                               | [Python][190a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                | [Python][203a]             | Easy       |
 | 217  | [Contains Duplicate][217]                         | [Python][217a]             | Easy       |
@@ -152,6 +153,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [137a]: ./src/singleNumberII/once.py
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [151a]: ./src/reverseWords/rev.py
+[154]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+[154a]: ./src/findMinRotatedII/min.py
 [190]: https://leetcode.com/problems/reverse-bits/
 [190a]: ./src/reverseBits/rev.py
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
