@@ -1,5 +1,7 @@
 package plusOne;
 
+import java.util.Arrays;
+
 public class Plus {
     public int[] plusOne(int[] digits) {
         boolean isAllNine = true;
@@ -25,5 +27,12 @@ public class Plus {
             }
             return digits;
         }
+    }
+
+    public static void main(String[] args) {
+        int[] digits = { 1, 2, 3 };
+        System.out.println("Input: " + Arrays.toString(digits));
+        digits = new Plus().plusOne(digits);
+        System.out.println("Output: " + Arrays.toString(digits));
     }
 }
