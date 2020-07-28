@@ -37,6 +37,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 108  | [Convert Sorted Array to Binary Search Tree][108] | [Python][108a]             | Easy       |
 | 129  | [Sum Root to Leaf Numbers][129]                   | [Python][129a]             | Medium     |
 | 130  | [Surrounded Regions][130]                         | [Python][130a]             | Medium     |
+| 136  | [Single Number][136]                              | [Python][136a]             | Easy       |
 | 137  | [Single Number II][137]                           | [Python][137a]             | Medium     |
 | 151  | [Reverse Words in a String][151]                  | [Python][151a]             | Medium     |
 | 154  | [Reverse Words in a String][154]                  | [Python][154a]             | Hard       |
@@ -149,6 +150,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [129a]: ./src/sumRootToLeaf/sum.py
 [130]: https://leetcode.com/problems/surrounded-regions/
 [130a]: ./src/surroundedRegions/board.py
+[136]: https://leetcode.com/problems/single-number/
+[136a]: ./src/singleNum/lonely.py
 [137]: https://leetcode.com/problems/single-number-ii/
 [137a]: ./src/singleNumberII/once.py
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
