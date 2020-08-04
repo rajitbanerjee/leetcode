@@ -54,6 +54,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 264  | [Ugly Number II][264]                             | [Python][264a]             | Medium     |
 | 275  | [H-Index II][275]                                 | [Python][275a]             | Medium     |
 | 287  | [Find the Duplicate Number][287]                  | [Python][287a]             | Medium     |
+| 342  | [Power of Four][342]                              | [Python][342a]             | Easy       |
 | 344  | [Reverse String][344]                             | [Python][344a]             | Easy       |
 | 347  | [Top K Frequent Elements][347]                    | [Python][347a]             | Medium     |
 | 380  | [Insert Delete GetRandom O(1)][380]               | [Python][380a]             | Medium     |
@@ -184,6 +185,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [275a]: ./src/hIndexII/index.py
 [287]: https://leetcode.com/problems/find-the-duplicate-number/
 [287a]: ./src/findDuplicateNum/find.py
+[342]: https://leetcode.com/problems/power-of-four/
+[342a]: ./src/powerOfFour/four.py
 [344]: https://leetcode.com/problems/reverse-string/
 [344a]: ./src/reverseString/rev.py
 [347]: https://leetcode.com/problems/top-k-frequent-elements
