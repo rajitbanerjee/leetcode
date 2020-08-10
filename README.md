@@ -35,6 +35,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 103  | [Binary Tree Zigzag Level Order Traversal][103]   | [Python][103a]             | Medium     |
 | 107  | [Binary Tree Level Order Traversal II][107]       | [Python][107a]             | Easy       |
 | 108  | [Convert Sorted Array to Binary Search Tree][108] | [Python][108a]             | Easy       |
+| 121  | [Best Time to Buy and Sell Stock][121]            | [Python][121a]             | Easy       |
 | 129  | [Sum Root to Leaf Numbers][129]                   | [Python][129a]             | Medium     |
 | 130  | [Surrounded Regions][130]                         | [Python][130a]             | Medium     |
 | 136  | [Single Number][136]                              | [Python][136a]             | Easy       |
@@ -148,6 +149,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [107a]: ./src/levelOrderII/level.py
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [108a]: ./src/sortedArrayToBST/bst.py
+[121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[121]: ./src/bestTimeStock/profit.py
 [129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
 [129a]: ./src/sumRootToLeaf/sum.py
 [130]: https://leetcode.com/problems/surrounded-regions/
