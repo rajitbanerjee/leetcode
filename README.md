@@ -55,6 +55,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 258  | [Add Digits][258]                                 | [Python][258a]             | Easy       |
 | 260  | [Single Number III][260]                          | [Python][260a]             | Medium     |
 | 264  | [Ugly Number II][264]                             | [Python][264a]             | Medium     |
+| 274  | [H-Index][274]                                    | [Python][274a]             | Medium     |
 | 275  | [H-Index II][275]                                 | [Python][275a]             | Medium     |
 | 287  | [Find the Duplicate Number][287]                  | [Python][287a]             | Medium     |
 | 342  | [Power of Four][342]                              | [Python][342a]             | Easy       |
@@ -190,6 +191,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [260a]: ./src/singleNumIII/num.py
 [264]: https://leetcode.com/problems/ugly-number-ii/
 [264a]: ./src/uglyNumberII/ugly.py
+[274]: https://leetcode.com/problems/h-index/
+[274a]: ./src/hIndex/index.py
 [275]: https://leetcode.com/problems/h-index-ii/
 [275a]: ./src/hIndexII/index.py
 [287]: https://leetcode.com/problems/find-the-duplicate-number/
