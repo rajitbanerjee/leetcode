@@ -83,6 +83,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1025 | [Divisor Game][1025]                              | [Python][1025a]            | Easy       |
 | 1029 | [Two City Scheduling][1029]                       | [Python][1029a]            | Easy       |
 | 1137 | [N-th Tribonacci Number][1137]                    | [Java][1137a]              | Easy       |
+| 1143 | [Longest Common Subsequence][1143]                | [Python][1143a]            | Medium     |
 | 1275 | [Find Winner on a Tic Tac Toe Game][1275]         | [Python][1275a]            | Easy       |
 | 1344 | [Angle Between Hands of a Clock][1344]            | [Python][1344a]            | Medium     |
 | 1496 | [Path Crossing][1496]                             | [Python][1496a]            | Easy       |
@@ -247,6 +248,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1029a]: ./src/twoCityScheduling/sched.py
 [1137]: https://leetcode.com/problems/n-th-tribonacci-number/
 [1137a]: ./src/nthTribonacciNumber/Tribonacci.java
+[1143]: https://leetcode.com/problems/longest-common-subsequence/
+[1143a]: ./src/longestCommonSub/lcs.py
 [1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
 [1275a]: ./src/ticTacToe/winner.py
 [1344]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
