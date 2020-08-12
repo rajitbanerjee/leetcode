@@ -35,6 +35,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 103  | [Binary Tree Zigzag Level Order Traversal][103]   | [Python][103a]             | Medium     |
 | 107  | [Binary Tree Level Order Traversal II][107]       | [Python][107a]             | Easy       |
 | 108  | [Convert Sorted Array to Binary Search Tree][108] | [Python][108a]             | Easy       |
+| 119  | [Pascal's Triangle II][119]                       | [Python][119a]             | Easy       |
 | 121  | [Best Time to Buy and Sell Stock][121]            | [Python][121a]             | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II][122]         | [Python][122a]             | Easy       |
 | 129  | [Sum Root to Leaf Numbers][129]                   | [Python][129a]             | Medium     |
@@ -152,6 +153,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [107a]: ./src/levelOrderII/level.py
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [108a]: ./src/sortedArrayToBST/bst.py
+[119]: https://leetcode.com/problems/pascals-triangle-ii/
+[119a]: ./src/pascalsTriangleII/pascal.py
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [121]: ./src/bestTimeStock/profit.py
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
