@@ -48,6 +48,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 154  | [Reverse Words in a String][154]                  | [Python][154a]             | Hard       |
 | 171  | [Excel Sheet Column Number][171]                  | [Python][171a]             | Easy       |
 | 190  | [Reverse Bits][190]                               | [Python][190a]             | Easy       |
+| 198  | [House Robber][198]                               | [Python][198a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                | [Python][203a]             | Easy       |
 | 217  | [Contains Duplicate][217]                         | [Python][217a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                  | [Python][222a]             | Medium     |
@@ -181,6 +182,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [171a]: ./src/excelSheetColNum/excel.py
 [190]: https://leetcode.com/problems/reverse-bits/
 [190a]: ./src/reverseBits/rev.py
+[198]: https://leetcode.com/problems/house-robber/
+[198a]: ./src/houseRobber/rob.py
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [203a]: ./src/removeLinkedElement/rem.py
 [217]: https://leetcode.com/problems/contains-duplicate/
