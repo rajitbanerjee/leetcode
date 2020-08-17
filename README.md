@@ -40,6 +40,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 119  | [Pascal's Triangle II][119]                       | [Python][119a]             | Easy       |
 | 121  | [Best Time to Buy and Sell Stock][121]            | [Python][121a]             | Easy       |
 | 122  | [Best Time to Buy and Sell Stock II][122]         | [Python][122a]             | Easy       |
+| 125  | [Valid Palindrome][125]                           | [Python][125a]             | Easy       |
 | 129  | [Sum Root to Leaf Numbers][129]                   | [Python][129a]             | Medium     |
 | 130  | [Surrounded Regions][130]                         | [Python][130a]             | Medium     |
 | 136  | [Single Number][136]                              | [Python][136a]             | Easy       |
@@ -170,6 +171,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [121]: ./src/bestTimeStock/profit.py
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [122a]: ./src/bestTimeStockII/profit.py
+[125]: https://leetcode.com/problems/valid-palindrome/
+[125a]: ./src/validPalin/drome.py
 [129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
 [129a]: ./src/sumRootToLeaf/sum.py
 [130]: https://leetcode.com/problems/surrounded-regions/
