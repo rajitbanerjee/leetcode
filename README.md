@@ -169,7 +169,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
 [119a]: ./src/pascalsTriangleII/pascal.py
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-[121]: ./src/bestTimeStock/profit.py
+[121a]: ./src/bestTimeStock/profit.py
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [122a]: ./src/bestTimeStockII/profit.py
 [125]: https://leetcode.com/problems/valid-palindrome/
