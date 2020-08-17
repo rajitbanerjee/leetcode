@@ -50,6 +50,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 190  | [Reverse Bits][190]                               | [Python][190a]             | Easy       |
 | 198  | [House Robber][198]                               | [Python][198a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                | [Python][203a]             | Easy       |
+| 204  | [Count Primes][204]                               | [Java][204a]               | Easy       |
 | 217  | [Contains Duplicate][217]                         | [Python][217a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                  | [Python][222a]             | Medium     |
 | 226  | [Invert Binary Tree][226]                         | [Java][226a]               | Easy       |
@@ -188,6 +189,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [198a]: ./src/houseRobber/rob.py
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [203a]: ./src/removeLinkedElement/rem.py
+[204]: https://leetcode.com/problems/count-primes/
+[204a]: ./src/countPrimes/Prime.java
 [217]: https://leetcode.com/problems/contains-duplicate/
 [217a]: ./src/containsDuplicate/dup.py
 [222]: https://leetcode.com/problems/count-complete-tree-nodes/
