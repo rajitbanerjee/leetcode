@@ -47,6 +47,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 151  | [Reverse Words in a String][151]                  | [Python][151a]             | Medium     |
 | 154  | [Reverse Words in a String][154]                  | [Python][154a]             | Hard       |
 | 171  | [Excel Sheet Column Number][171]                  | [Python][171a]             | Easy       |
+| 189  | [Rotate Array][189]                               | [Python][189a]             | Easy       |
 | 190  | [Reverse Bits][190]                               | [Python][190a]             | Easy       |
 | 198  | [House Robber][198]                               | [Python][198a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                | [Python][203a]             | Easy       |
@@ -183,6 +184,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [154a]: ./src/findMinRotatedII/min.py
 [171]: https://leetcode.com/problems/excel-sheet-column-number
 [171a]: ./src/excelSheetColNum/excel.py
+[189]: https://leetcode.com/problems/rotate-array/
+[189a]: ./src/rotateArray/rotate.py
 [190]: https://leetcode.com/problems/reverse-bits/
 [190a]: ./src/reverseBits/rev.py
 [198]: https://leetcode.com/problems/house-robber/
