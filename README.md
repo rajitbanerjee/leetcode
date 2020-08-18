@@ -97,6 +97,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1143 | [Longest Common Subsequence][1143]                | [Python][1143a]            | Medium     |
 | 1275 | [Find Winner on a Tic Tac Toe Game][1275]         | [Python][1275a]            | Easy       |
 | 1344 | [Angle Between Hands of a Clock][1344]            | [Python][1344a]            | Medium     |
+| 1351 | [Count Negative Numbers in a Sorted Matrix][1351] | [Python][1351a]            | Easy       |
 | 1496 | [Path Crossing][1496]                             | [Python][1496a]            | Easy       |
 
 [1]: https://leetcode.com/problems/two-sum/
@@ -287,5 +288,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1275a]: ./src/ticTacToe/winner.py
 [1344]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
 [1344a]: ./src/angleHandsClock/angle.py
+[1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+[1351a]: ./src/countNegNumsMatrix/count.py
 [1496]: https://leetcode.com/problems/path-crossing/
 [1496a]: ./src/pathCrossing/path.py
