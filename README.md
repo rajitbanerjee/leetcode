@@ -65,6 +65,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 264  | [Ugly Number II][264]                             | [Python][264a]             | Medium     |
 | 274  | [H-Index][274]                                    | [Python][274a]             | Medium     |
 | 275  | [H-Index II][275]                                 | [Python][275a]             | Medium     |
+| 278  | [First Bad Version][278]                          | [Python][278a]             | Easy       |
 | 287  | [Find the Duplicate Number][287]                  | [Python][287a]             | Medium     |
 | 342  | [Power of Four][342]                              | [Python][342a]             | Easy       |
 | 344  | [Reverse String][344]                             | [Python][344a]             | Easy       |
@@ -224,6 +225,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [274a]: ./src/hIndex/index.py
 [275]: https://leetcode.com/problems/h-index-ii/
 [275a]: ./src/hIndexII/index.py
+[278]: https://leetcode.com/problems/first-bad-version/
+[278a]: ./src/firstBadVersion/first.py
 [287]: https://leetcode.com/problems/find-the-duplicate-number/
 [287a]: ./src/findDuplicateNum/find.py
 [342]: https://leetcode.com/problems/power-of-four/
