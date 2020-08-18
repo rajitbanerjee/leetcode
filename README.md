@@ -90,6 +90,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 875  | [Koko Eating Bananas][875]                        | [Python][875a]             | Medium     |
 | 938  | [Range Sum of BST][938]                           | [Python][938a]             | Easy       |
 | 957  | [Prison Cells After N Days][957]                  | [Python][957a]             | Medium     |
+| 967  | [Numbers With Same Consecutive Differences][967]  | [Python][967a]             | Medium     |
 | 1025 | [Divisor Game][1025]                              | [Python][1025a]            | Easy       |
 | 1029 | [Two City Scheduling][1029]                       | [Python][1029a]            | Easy       |
 | 1137 | [N-th Tribonacci Number][1137]                    | [Java][1137a]              | Easy       |
@@ -272,6 +273,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [938a]: ./src/rangeSumBST/sum.py
 [957]: https://leetcode.com/problems/prison-cells-after-n-days/
 [957a]: ./src/prisonNDays/prison.py
+[967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
+[967a]: ./src/numsConsecDiff/nums.py
 [1025]: https://leetcode.com/problems/divisor-game/
 [1025a]: ./src/divisorGame/game.py
 [1029]: https://leetcode.com/problems/two-city-scheduling/
