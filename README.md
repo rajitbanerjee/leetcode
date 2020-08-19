@@ -89,6 +89,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 771  | [Jewels And Stones][771]                          | [Python][771a]             | Easy       |
 | 783  | [Minimum Distance Between BST Nodes][783]         | [Python][783a]             | Easy       |
 | 788  | [Rotated Digits][788]                             | [Python][788a]             | Easy       |
+| 824  | [Goat Latin][824]                                 | [Python][824a]             | Easy       |
 | 875  | [Koko Eating Bananas][875]                        | [Python][875a]             | Medium     |
 | 938  | [Range Sum of BST][938]                           | [Python][938a]             | Easy       |
 | 957  | [Prison Cells After N Days][957]                  | [Python][957a]             | Medium     |
@@ -274,6 +275,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [783a]: ./src/minimumDistBST/dist.py
 [788]: https://leetcode.com/problems/rotated-digits/
 [788a]: ./src/rotatedDigits/dig.py
+[824]: https://leetcode.com/problems/goat-latin/
+[824a]: ./src/goatLatin/goat.py
 [875]: https://leetcode.com/problems/koko-eating-bananas/
 [875a]: ./src/kokoBananas/koko.py
 [938]: https://leetcode.com/problems/range-sum-of-bst/
