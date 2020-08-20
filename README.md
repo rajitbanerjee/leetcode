@@ -13,6 +13,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 14   | [Longest Common Prefix][14]                       | [Java][14a]                | Easy       |
 | 20   | [Valid Parentheses][20]                           | [Java][20a]                | Easy       |
 | 21   | [Merge Two Sorted Lists][21]                      | [Java][21a]                | Easy       |
+| 22   | [Generate Parentheses][22]                        | [Python][22a]              | Medium     |
 | 26   | [Remove Duplicates from Sorted Array][26]         | [Java][26a]                | Easy       |
 | 27   | [Remove Element][27]                              | [Java][27a]                | Easy       |
 | 28   | [Implement strStr()][28]                          | [Java][28a]                | Easy       |
@@ -123,6 +124,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [20a]: ./src/validParentheses/Brackets.java
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [21a]: ./src/mergeSortedLists/Merge.java
+[22]: https://leetcode.com/problems/generate-parentheses/
+[22a]: ./src/genParentheses/brackets.py
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [26a]: ./src/removeDupSorted/Remove.java
 [27]: https://leetcode.com/problems/remove-element/
