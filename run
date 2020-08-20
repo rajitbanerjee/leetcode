@@ -4,14 +4,14 @@ Run all python/java programs in a specified directory.
 
 Usage examples:
 For Python (defualt without -java flag),
-$ ./run.sh src/plusOne
+$ ./run src/plusOne
 
 For Java, 
-$ ./run.sh src/plusOne -java 
+$ ./run src/plusOne -java 
 DETAILS
 
 print_usage() {
-    echo "Usage: ./run.sh src/<dir_name> [-java]"
+    echo "Usage: ./run src/<dir_name> [-java]"
     echo "Note: Python is used by default (without -java flag)"
     exit 1
 }
