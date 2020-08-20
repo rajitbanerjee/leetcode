@@ -87,6 +87,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 617  | [Merge Two Binary Trees][617]                     | [Python][617a]             | Easy       |
 | 690  | [Employee Importance][690]                        | [Python][690a]             | Easy       |
 | 700  | [Search in a Binary Search Tree][700]             | [Python][700a]             | Easy       |
+| 704  | [Binary Search][704]                              | [Python][704a]             | Easy       |
 | 771  | [Jewels And Stones][771]                          | [Python][771a]             | Easy       |
 | 783  | [Minimum Distance Between BST Nodes][783]         | [Python][783a]             | Easy       |
 | 788  | [Rotated Digits][788]                             | [Python][788a]             | Easy       |
@@ -272,6 +273,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [690a]: ./src/empImportance/emp.py
 [700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
 [700a]: ./src/searchBST/search.py
+[704]: https://leetcode.com/problems/binary-search/
+[704a]: ./src/binarySearch/search.py
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [771a]: ./src/jewelsAndStones/js.py
 [783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
