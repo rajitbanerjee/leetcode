@@ -20,6 +20,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 30   | [Substring with Concatenation of All Words][30]   | [Python][30a]              | Hard       |
 | 35   | [Search Insert Position][35]                      | [Java][35a], [Python][35b] | Easy       |
 | 38   | [Count and Say][38]                               | [Python][38a]              | Easy       |
+| 39   | [Combination Sum][39]                             | [Python][39a]              | Medium     |
 | 41   | [First Missing Positive][41]                      | [Python][41a]              | Hard       |
 | 50   | [Pow(x, n)][50]                                   | [Python][50a]              | Medium     |
 | 53   | [Maximum Subarray][53]                            | [Python][53a]              | Easy       |
