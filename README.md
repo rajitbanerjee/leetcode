@@ -93,6 +93,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 690  | [Employee Importance][690]                                  | [Python][690a]             | Easy       |
 | 700  | [Search in a Binary Search Tree][700]                       | [Python][700a]             | Easy       |
 | 704  | [Binary Search][704]                                        | [Python][704a]             | Easy       |
+| 744  | [Find Smallest Letter Greater Than Target][744]             | [Python][744a]             | Easy       |
 | 771  | [Jewels And Stones][771]                                    | [Python][771a]             | Easy       |
 | 783  | [Minimum Distance Between BST Nodes][783]                   | [Python][783a]             | Easy       |
 | 788  | [Rotated Digits][788]                                       | [Python][788a]             | Easy       |
@@ -289,6 +290,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [700a]: ./src/searchBST/search.py
 [704]: https://leetcode.com/problems/binary-search/
 [704a]: ./src/binarySearch/search.py
+[744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[744a]: ./src/smallestLetter/target.py
 [771]: https://leetcode.com/problems/jewels-and-stones/
 [771a]: ./src/jewelsAndStones/js.py
 [783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
