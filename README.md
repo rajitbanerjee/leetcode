@@ -78,6 +78,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 392  | [Is Subsequence][392]                             | [Python][392a]             | Easy       |
 | 406  | [Queue Reconstruction by Height][406]             | [Python][406a]             | Medium     |
 | 409  | [Longest Palindrome][409]                         | [Python][409a]             | Easy       |
+| 415  | [Add Strings][415]                                | [Python][415a]             | Easy       |
 | 441  | [Arranging Coins][441]                            | [Python][441a]             | Easy       |
 | 461  | [Hamming Distance][461]                           | [Python][461a]             | Easy       |
 | 463  | [Island Perimeter][463]                           | [Python][463a]             | Easy       |
@@ -255,6 +256,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [406a]: ./src/queueReconstruct/queue.py
 [409]: https://leetcode.com/problems/longest-palindrome/
 [409a]: ./src/longestPalin/drome.py
+[415]: https://leetcode.com/problems/add-strings/
+[415a]: ./src/addStrings/add.py
 [441]: https://leetcode.com/problems/arranging-coins/
 [441a]: ./src/arrangingCoins/coins.py
 [461]: https://leetcode.com/problems/hamming-distance/
