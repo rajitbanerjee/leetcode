@@ -2,111 +2,112 @@
 
 My solutions to some problems from [LeetCode](https://leetcode.com/problemset/all/).
 
-| #    | Title                                             | Solution                   | Difficulty |
-| ---- | ------------------------------------------------- | -------------------------- | ---------- |
-| 1    | [Two Sum][1]                                      | [Java][1a]                 | Easy       |
-| 2    | [Add Two Numbers][2]                              | [Python][2a]               | Medium     |
-| 7    | [Reverse Integer][7]                              | [Java][7a]                 | Easy       |
-| 8    | [String to Integer (atoi)][8]                     | [Python][8a]               | Medium     |
-| 9    | [Palindrome Number][9]                            | [Java][9a]                 | Easy       |
-| 13   | [Roman to Integer][13]                            | [Java][13a]                | Easy       |
-| 14   | [Longest Common Prefix][14]                       | [Java][14a]                | Easy       |
-| 20   | [Valid Parentheses][20]                           | [Java][20a]                | Easy       |
-| 21   | [Merge Two Sorted Lists][21]                      | [Java][21a]                | Easy       |
-| 22   | [Generate Parentheses][22]                        | [Python][22a]              | Medium     |
-| 26   | [Remove Duplicates from Sorted Array][26]         | [Java][26a]                | Easy       |
-| 27   | [Remove Element][27]                              | [Java][27a]                | Easy       |
-| 28   | [Implement strStr()][28]                          | [Java][28a]                | Easy       |
-| 30   | [Substring with Concatenation of All Words][30]   | [Python][30a]              | Hard       |
-| 35   | [Search Insert Position][35]                      | [Java][35a], [Python][35b] | Easy       |
-| 38   | [Count and Say][38]                               | [Python][38a]              | Easy       |
-| 39   | [Combination Sum][39]                             | [Python][39a]              | Medium     |
-| 41   | [First Missing Positive][41]                      | [Python][41a]              | Hard       |
-| 50   | [Pow(x, n)][50]                                   | [Python][50a]              | Medium     |
-| 53   | [Maximum Subarray][53]                            | [Python][53a]              | Easy       |
-| 58   | [Length of Last Word][58]                         | [Java][58a]                | Easy       |
-| 60   | [Permutation Sequence][60]                        | [Python][60a]              | Medium     |
-| 62   | [Unique Paths][62]                                | [Python][62a]              | Medium     |
-| 66   | [Plus One][66]                                    | [Java][66a], [Python][66b] | Easy       |
-| 67   | [Add Binary][67]                                  | [Python][67a]              | Easy       |
-| 69   | [Sqrt(x)][69]                                     | [Java][69a]                | Easy       |
-| 75   | [Sort Colors][75]                                 | [Python][75a]              | Medium     |
-| 78   | [Subsets][78]                                     | [Python][78a]              | Medium     |
-| 94   | [Binary Tree Inorder Traversal][94]               | [Python][94a]              | Medium     |
-| 96   | [Unique Binary Search Trees][96]                  | [Python][96a]              | Medium     |
-| 100  | [Same Tree][100]                                  | [Python][100a]             | Easy       |
-| 103  | [Binary Tree Zigzag Level Order Traversal][103]   | [Python][103a]             | Medium     |
-| 107  | [Binary Tree Level Order Traversal II][107]       | [Python][107a]             | Easy       |
-| 108  | [Convert Sorted Array to Binary Search Tree][108] | [Python][108a]             | Easy       |
-| 118  | [Pascal's Triangle][118]                          | [Python][118a]             | Easy       |
-| 119  | [Pascal's Triangle II][119]                       | [Python][119a]             | Easy       |
-| 121  | [Best Time to Buy and Sell Stock][121]            | [Python][121a]             | Easy       |
-| 122  | [Best Time to Buy and Sell Stock II][122]         | [Python][122a]             | Easy       |
-| 125  | [Valid Palindrome][125]                           | [Python][125a]             | Easy       |
-| 129  | [Sum Root to Leaf Numbers][129]                   | [Python][129a]             | Medium     |
-| 130  | [Surrounded Regions][130]                         | [Python][130a]             | Medium     |
-| 136  | [Single Number][136]                              | [Python][136a]             | Easy       |
-| 137  | [Single Number II][137]                           | [Python][137a]             | Medium     |
-| 143  | [Reorder List][143]                               | [Python][143a]             | Medium     |
-| 151  | [Reverse Words in a String][151]                  | [Python][151a]             | Medium     |
-| 154  | [Reverse Words in a String][154]                  | [Python][154a]             | Hard       |
-| 171  | [Excel Sheet Column Number][171]                  | [Python][171a]             | Easy       |
-| 189  | [Rotate Array][189]                               | [Python][189a]             | Easy       |
-| 190  | [Reverse Bits][190]                               | [Python][190a]             | Easy       |
-| 198  | [House Robber][198]                               | [Python][198a]             | Easy       |
-| 203  | [Remove Linked List Elements][203]                | [Python][203a]             | Easy       |
-| 204  | [Count Primes][204]                               | [Java][204a]               | Easy       |
-| 217  | [Contains Duplicate][217]                         | [Python][217a]             | Easy       |
-| 222  | [Count Complete Tree Nodes][222]                  | [Python][222a]             | Medium     |
-| 226  | [Invert Binary Tree][226]                         | [Java][226a]               | Easy       |
-| 231  | [Power of Two][231]                               | [Python][231a]             | Easy       |
-| 234  | [Palindrome Linked List][234]                     | [Python][234a]             | Easy       |
-| 237  | [Delete Node in a Linked List][237]               | [Python][237a]             | Easy       |
-| 242  | [Valid Anagram][242]                              | [Python][242a]             | Easy       |
-| 258  | [Add Digits][258]                                 | [Python][258a]             | Easy       |
-| 260  | [Single Number III][260]                          | [Python][260a]             | Medium     |
-| 264  | [Ugly Number II][264]                             | [Python][264a]             | Medium     |
-| 274  | [H-Index][274]                                    | [Python][274a]             | Medium     |
-| 275  | [H-Index II][275]                                 | [Python][275a]             | Medium     |
-| 278  | [First Bad Version][278]                          | [Python][278a]             | Easy       |
-| 287  | [Find the Duplicate Number][287]                  | [Python][287a]             | Medium     |
-| 342  | [Power of Four][342]                              | [Python][342a]             | Easy       |
-| 344  | [Reverse String][344]                             | [Python][344a]             | Easy       |
-| 347  | [Top K Frequent Elements][347]                    | [Python][347a]             | Medium     |
-| 380  | [Insert Delete GetRandom O(1)][380]               | [Python][380a]             | Medium     |
-| 387  | [First Unique Character in a String][387]         | [Python][387a]             | Easy       |
-| 392  | [Is Subsequence][392]                             | [Python][392a]             | Easy       |
-| 406  | [Queue Reconstruction by Height][406]             | [Python][406a]             | Medium     |
-| 409  | [Longest Palindrome][409]                         | [Python][409a]             | Easy       |
-| 415  | [Add Strings][415]                                | [Python][415a]             | Easy       |
-| 441  | [Arranging Coins][441]                            | [Python][441a]             | Easy       |
-| 461  | [Hamming Distance][461]                           | [Python][461a]             | Easy       |
-| 463  | [Island Perimeter][463]                           | [Python][463a]             | Easy       |
-| 468  | [Validate IP Address][468]                        | [Python][468a]             | Medium     |
-| 518  | [Coin Change 2][518]                              | [Python][518a]             | Medium     |
-| 528  | [Random Pick with Weight][528]                    | [Python][528a]             | Medium     |
-| 560  | [Subarray Sum Equals K][560]                      | [Python][560a]             | Medium     |
-| 590  | [N-ary Tree Postorder Traversal][590]             | [Python][590a]             | Easy       |
-| 617  | [Merge Two Binary Trees][617]                     | [Python][617a]             | Easy       |
-| 690  | [Employee Importance][690]                        | [Python][690a]             | Easy       |
-| 700  | [Search in a Binary Search Tree][700]             | [Python][700a]             | Easy       |
-| 704  | [Binary Search][704]                              | [Python][704a]             | Easy       |
-| 771  | [Jewels And Stones][771]                          | [Python][771a]             | Easy       |
-| 783  | [Minimum Distance Between BST Nodes][783]         | [Python][783a]             | Easy       |
-| 788  | [Rotated Digits][788]                             | [Python][788a]             | Easy       |
-| 824  | [Goat Latin][824]                                 | [Python][824a]             | Easy       |
-| 875  | [Koko Eating Bananas][875]                        | [Python][875a]             | Medium     |
-| 938  | [Range Sum of BST][938]                           | [Python][938a]             | Easy       |
-| 957  | [Prison Cells After N Days][957]                  | [Python][957a]             | Medium     |
-| 967  | [Numbers With Same Consecutive Differences][967]  | [Python][967a]             | Medium     |
-| 1025 | [Divisor Game][1025]                              | [Python][1025a]            | Easy       |
-| 1029 | [Two City Scheduling][1029]                       | [Python][1029a]            | Easy       |
-| 1137 | [N-th Tribonacci Number][1137]                    | [Java][1137a]              | Easy       |
-| 1143 | [Longest Common Subsequence][1143]                | [Python][1143a]            | Medium     |
-| 1275 | [Find Winner on a Tic Tac Toe Game][1275]         | [Python][1275a]            | Easy       |
-| 1344 | [Angle Between Hands of a Clock][1344]            | [Python][1344a]            | Medium     |
-| 1351 | [Count Negative Numbers in a Sorted Matrix][1351] | [Python][1351a]            | Easy       |
-| 1496 | [Path Crossing][1496]                             | [Python][1496a]            | Easy       |
+| #    | Title                                                       | Solution                   | Difficulty |
+| ---- | ----------------------------------------------------------- | -------------------------- | ---------- |
+| 1    | [Two Sum][1]                                                | [Java][1a]                 | Easy       |
+| 2    | [Add Two Numbers][2]                                        | [Python][2a]               | Medium     |
+| 7    | [Reverse Integer][7]                                        | [Java][7a]                 | Easy       |
+| 8    | [String to Integer (atoi)][8]                               | [Python][8a]               | Medium     |
+| 9    | [Palindrome Number][9]                                      | [Java][9a]                 | Easy       |
+| 13   | [Roman to Integer][13]                                      | [Java][13a]                | Easy       |
+| 14   | [Longest Common Prefix][14]                                 | [Java][14a]                | Easy       |
+| 20   | [Valid Parentheses][20]                                     | [Java][20a]                | Easy       |
+| 21   | [Merge Two Sorted Lists][21]                                | [Java][21a]                | Easy       |
+| 22   | [Generate Parentheses][22]                                  | [Python][22a]              | Medium     |
+| 26   | [Remove Duplicates from Sorted Array][26]                   | [Java][26a]                | Easy       |
+| 27   | [Remove Element][27]                                        | [Java][27a]                | Easy       |
+| 28   | [Implement strStr()][28]                                    | [Java][28a]                | Easy       |
+| 30   | [Substring with Concatenation of All Words][30]             | [Python][30a]              | Hard       |
+| 35   | [Search Insert Position][35]                                | [Java][35a], [Python][35b] | Easy       |
+| 38   | [Count and Say][38]                                         | [Python][38a]              | Easy       |
+| 39   | [Combination Sum][39]                                       | [Python][39a]              | Medium     |
+| 41   | [First Missing Positive][41]                                | [Python][41a]              | Hard       |
+| 50   | [Pow(x, n)][50]                                             | [Python][50a]              | Medium     |
+| 53   | [Maximum Subarray][53]                                      | [Python][53a]              | Easy       |
+| 58   | [Length of Last Word][58]                                   | [Java][58a]                | Easy       |
+| 60   | [Permutation Sequence][60]                                  | [Python][60a]              | Medium     |
+| 62   | [Unique Paths][62]                                          | [Python][62a]              | Medium     |
+| 66   | [Plus One][66]                                              | [Java][66a], [Python][66b] | Easy       |
+| 67   | [Add Binary][67]                                            | [Python][67a]              | Easy       |
+| 69   | [Sqrt(x)][69]                                               | [Java][69a]                | Easy       |
+| 75   | [Sort Colors][75]                                           | [Python][75a]              | Medium     |
+| 78   | [Subsets][78]                                               | [Python][78a]              | Medium     |
+| 94   | [Binary Tree Inorder Traversal][94]                         | [Python][94a]              | Medium     |
+| 96   | [Unique Binary Search Trees][96]                            | [Python][96a]              | Medium     |
+| 100  | [Same Tree][100]                                            | [Python][100a]             | Easy       |
+| 103  | [Binary Tree Zigzag Level Order Traversal][103]             | [Python][103a]             | Medium     |
+| 107  | [Binary Tree Level Order Traversal II][107]                 | [Python][107a]             | Easy       |
+| 108  | [Convert Sorted Array to Binary Search Tree][108]           | [Python][108a]             | Easy       |
+| 118  | [Pascal's Triangle][118]                                    | [Python][118a]             | Easy       |
+| 119  | [Pascal's Triangle II][119]                                 | [Python][119a]             | Easy       |
+| 121  | [Best Time to Buy and Sell Stock][121]                      | [Python][121a]             | Easy       |
+| 122  | [Best Time to Buy and Sell Stock II][122]                   | [Python][122a]             | Easy       |
+| 125  | [Valid Palindrome][125]                                     | [Python][125a]             | Easy       |
+| 129  | [Sum Root to Leaf Numbers][129]                             | [Python][129a]             | Medium     |
+| 130  | [Surrounded Regions][130]                                   | [Python][130a]             | Medium     |
+| 136  | [Single Number][136]                                        | [Python][136a]             | Easy       |
+| 137  | [Single Number II][137]                                     | [Python][137a]             | Medium     |
+| 143  | [Reorder List][143]                                         | [Python][143a]             | Medium     |
+| 151  | [Reverse Words in a String][151]                            | [Python][151a]             | Medium     |
+| 154  | [Reverse Words in a String][154]                            | [Python][154a]             | Hard       |
+| 171  | [Excel Sheet Column Number][171]                            | [Python][171a]             | Easy       |
+| 189  | [Rotate Array][189]                                         | [Python][189a]             | Easy       |
+| 190  | [Reverse Bits][190]                                         | [Python][190a]             | Easy       |
+| 198  | [House Robber][198]                                         | [Python][198a]             | Easy       |
+| 203  | [Remove Linked List Elements][203]                          | [Python][203a]             | Easy       |
+| 204  | [Count Primes][204]                                         | [Java][204a]               | Easy       |
+| 217  | [Contains Duplicate][217]                                   | [Python][217a]             | Easy       |
+| 222  | [Count Complete Tree Nodes][222]                            | [Python][222a]             | Medium     |
+| 226  | [Invert Binary Tree][226]                                   | [Java][226a]               | Easy       |
+| 231  | [Power of Two][231]                                         | [Python][231a]             | Easy       |
+| 234  | [Palindrome Linked List][234]                               | [Python][234a]             | Easy       |
+| 237  | [Delete Node in a Linked List][237]                         | [Python][237a]             | Easy       |
+| 242  | [Valid Anagram][242]                                        | [Python][242a]             | Easy       |
+| 258  | [Add Digits][258]                                           | [Python][258a]             | Easy       |
+| 260  | [Single Number III][260]                                    | [Python][260a]             | Medium     |
+| 264  | [Ugly Number II][264]                                       | [Python][264a]             | Medium     |
+| 274  | [H-Index][274]                                              | [Python][274a]             | Medium     |
+| 275  | [H-Index II][275]                                           | [Python][275a]             | Medium     |
+| 278  | [First Bad Version][278]                                    | [Python][278a]             | Easy       |
+| 287  | [Find the Duplicate Number][287]                            | [Python][287a]             | Medium     |
+| 342  | [Power of Four][342]                                        | [Python][342a]             | Easy       |
+| 344  | [Reverse String][344]                                       | [Python][344a]             | Easy       |
+| 347  | [Top K Frequent Elements][347]                              | [Python][347a]             | Medium     |
+| 380  | [Insert Delete GetRandom O(1)][380]                         | [Python][380a]             | Medium     |
+| 387  | [First Unique Character in a String][387]                   | [Python][387a]             | Easy       |
+| 392  | [Is Subsequence][392]                                       | [Python][392a]             | Easy       |
+| 406  | [Queue Reconstruction by Height][406]                       | [Python][406a]             | Medium     |
+| 409  | [Longest Palindrome][409]                                   | [Python][409a]             | Easy       |
+| 415  | [Add Strings][415]                                          | [Python][415a]             | Easy       |
+| 441  | [Arranging Coins][441]                                      | [Python][441a]             | Easy       |
+| 461  | [Hamming Distance][461]                                     | [Python][461a]             | Easy       |
+| 463  | [Island Perimeter][463]                                     | [Python][463a]             | Easy       |
+| 468  | [Validate IP Address][468]                                  | [Python][468a]             | Medium     |
+| 518  | [Coin Change 2][518]                                        | [Python][518a]             | Medium     |
+| 528  | [Random Pick with Weight][528]                              | [Python][528a]             | Medium     |
+| 560  | [Subarray Sum Equals K][560]                                | [Python][560a]             | Medium     |
+| 590  | [N-ary Tree Postorder Traversal][590]                       | [Python][590a]             | Easy       |
+| 617  | [Merge Two Binary Trees][617]                               | [Python][617a]             | Easy       |
+| 690  | [Employee Importance][690]                                  | [Python][690a]             | Easy       |
+| 700  | [Search in a Binary Search Tree][700]                       | [Python][700a]             | Easy       |
+| 704  | [Binary Search][704]                                        | [Python][704a]             | Easy       |
+| 771  | [Jewels And Stones][771]                                    | [Python][771a]             | Easy       |
+| 783  | [Minimum Distance Between BST Nodes][783]                   | [Python][783a]             | Easy       |
+| 788  | [Rotated Digits][788]                                       | [Python][788a]             | Easy       |
+| 824  | [Goat Latin][824]                                           | [Python][824a]             | Easy       |
+| 875  | [Koko Eating Bananas][875]                                  | [Python][875a]             | Medium     |
+| 938  | [Range Sum of BST][938]                                     | [Python][938a]             | Easy       |
+| 957  | [Prison Cells After N Days][957]                            | [Python][957a]             | Medium     |
+| 967  | [Numbers With Same Consecutive Differences][967]            | [Python][967a]             | Medium     |
+| 1025 | [Divisor Game][1025]                                        | [Python][1025a]            | Easy       |
+| 1029 | [Two City Scheduling][1029]                                 | [Python][1029a]            | Easy       |
+| 1137 | [N-th Tribonacci Number][1137]                              | [Java][1137a]              | Easy       |
+| 1143 | [Longest Common Subsequence][1143]                          | [Python][1143a]            | Medium     |
+| 1237 | [Find Positive Integer Solution for a Given Equation][1237] | [Python][1237a]            | Easy       |
+| 1275 | [Find Winner on a Tic Tac Toe Game][1275]                   | [Python][1275a]            | Easy       |
+| 1344 | [Angle Between Hands of a Clock][1344]                      | [Python][1344a]            | Medium     |
+| 1351 | [Count Negative Numbers in a Sorted Matrix][1351]           | [Python][1351a]            | Easy       |
+| 1496 | [Path Crossing][1496]                                       | [Python][1496a]            | Easy       |
 
 [1]: https://leetcode.com/problems/two-sum/
 [1a]: ./src/twoSum/TwoSum.java
@@ -306,6 +307,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1137a]: ./src/nthTribonacciNumber/Tribonacci.java
 [1143]: https://leetcode.com/problems/longest-common-subsequence/
 [1143a]: ./src/longestCommonSub/lcs.py
+[1237]: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+[1237a]: ./src/posIntegerSoln/sol.py
 [1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
 [1275a]: ./src/ticTacToe/winner.py
 [1344]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
