@@ -35,6 +35,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 94   | [Binary Tree Inorder Traversal][94]                         | [Python][94a]              | Medium     |
 | 96   | [Unique Binary Search Trees][96]                            | [Python][96a]              | Medium     |
 | 100  | [Same Tree][100]                                            | [Python][100a]             | Easy       |
+| 101  | [Symmetric Tree][101]                                       | [Python][101a]             | Easy       |
 | 103  | [Binary Tree Zigzag Level Order Traversal][103]             | [Python][103a]             | Medium     |
 | 107  | [Binary Tree Level Order Traversal II][107]                 | [Python][107a]             | Easy       |
 | 108  | [Convert Sorted Array to Binary Search Tree][108]           | [Python][108a]             | Easy       |
@@ -172,6 +173,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [96a]: ./src/uniqueBST/bst.py
 [100]: https://leetcode.com/problems/same-tree/
 [100a]: ./src/sameTree/same.py
+[101]: https://leetcode.com/problems/symmetric-tree/
+[101a]: ./src/symmetricTree/symm.py
 [103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [103a]: ./src/zigzagLevelOrder/tree.py
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
