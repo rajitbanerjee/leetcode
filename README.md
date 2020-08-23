@@ -113,6 +113,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1143 | [Longest Common Subsequence][1143]                          | [Python][1143a]            | Medium     |
 | 1237 | [Find Positive Integer Solution for a Given Equation][1237] | [Python][1237a]            | Easy       |
 | 1275 | [Find Winner on a Tic Tac Toe Game][1275]                   | [Python][1275a]            | Easy       |
+| 1342 | [Number of Steps to Reduce a Number to Zero][1342]          | [Python][1342a]            | Easy       |
 | 1344 | [Angle Between Hands of a Clock][1344]                      | [Python][1344a]            | Medium     |
 | 1351 | [Count Negative Numbers in a Sorted Matrix][1351]           | [Python][1351a]            | Easy       |
 | 1460 | [Make Two Arrays Equal by Reversing Sub-arrays][1460]       | [Python][1460a]            | Easy       |
@@ -554,6 +555,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
 
 [1275a]: ./src/ticTacToe/winner.py
+
+[1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
+[1342a]: ./src/stepsToZero/steps.py
 
 [1344]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
 
