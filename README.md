@@ -59,6 +59,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 198  | [House Robber][198]                                         | [Python][198a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                          | [Python][203a]             | Easy       |
 | 204  | [Count Primes][204]                                         | [Java][204a]               | Easy       |
+| 206  | [Reverse Linked List][206]                                  | [Python][206a]             | Easy       |
 | 217  | [Contains Duplicate][217]                                   | [Python][217a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                            | [Python][222a]             | Medium     |
 | 226  | [Invert Binary Tree][226]                                   | [Java][226a]               | Easy       |
@@ -335,6 +336,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [204]: https://leetcode.com/problems/count-primes/
 
 [204a]: ./src/countPrimes/Prime.java
+
+[206]: https://leetcode.com/problems/reverse-linked-list/
+
+[206a]: ./src/revList/rev.py
 
 [217]: https://leetcode.com/problems/contains-duplicate/
 
