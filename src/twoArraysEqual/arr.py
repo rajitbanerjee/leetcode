@@ -1,6 +1,3 @@
-from collections import defaultdict
-
-
 class Solution:
     def canBeEqual(self, target: list, arr: list) -> bool:
         return sorted(target) == sorted(arr)
