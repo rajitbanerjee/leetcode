@@ -115,6 +115,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1275 | [Find Winner on a Tic Tac Toe Game][1275]                   | [Python][1275a]            | Easy       |
 | 1344 | [Angle Between Hands of a Clock][1344]                      | [Python][1344a]            | Medium     |
 | 1351 | [Count Negative Numbers in a Sorted Matrix][1351]           | [Python][1351a]            | Easy       |
+| 1460 | [Make Two Arrays Equal by Reversing Sub-arrays][1460]       | [Python][1460a]            | Easy       |
 | 1496 | [Path Crossing][1496]                                       | [Python][1496a]            | Easy       |
 | 5479 | [Thousand Separator][5479]                                  | [Python][5479a]            | Easy       |
 
@@ -561,6 +562,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 
 [1351a]: ./src/countNegNumsMatrix/count.py
+
+[1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+
+[1460a]: ./src/twoArraysEqual/arr.py
 
 [1496]: https://leetcode.com/problems/path-crossing/
 
