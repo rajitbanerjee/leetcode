@@ -77,6 +77,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 342  | [Power of Four][342]                                        | [Python][342a]             | Easy       |
 | 344  | [Reverse String][344]                                       | [Python][344a]             | Easy       |
 | 347  | [Top K Frequent Elements][347]                              | [Python][347a]             | Medium     |
+| 349  | [Intersection of Two Arrays][349]                           | [Python][349a]             | Easy       |
 | 367  | [Valid Perfect Square][367]                                 | [Python][367a]             | Easy       |
 | 374  | [Guess Number Higher or Lower][374]                         | [Python][374a]             | Easy       |
 | 380  | [Insert Delete GetRandom O(1)][380]                         | [Python][380a]             | Medium     |
@@ -190,6 +191,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [38]: https://leetcode.com/problems/count-and-say/
 
 [38a]: ./src/countAndSay/count.py
+
+[39]: https://leetcode.com/problems/combination-sum/
+
+[39a]: ./src/comboSum/sum.py
 
 [41]: https://leetcode.com/problems/first-missing-positive/
 
@@ -412,6 +417,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [347]: https://leetcode.com/problems/top-k-frequent-elements
 
 [347a]: ./src/topKFrequent/counter.py
+
+[349]: https://leetcode.com/problems/intersection-of-two-arrays/
+
+[349a]: ./src/intersectionArr/arr.py 
 
 [367]: https://leetcode.com/problems/valid-perfect-square/
 
