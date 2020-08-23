@@ -77,6 +77,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 342  | [Power of Four][342]                                        | [Python][342a]             | Easy       |
 | 344  | [Reverse String][344]                                       | [Python][344a]             | Easy       |
 | 347  | [Top K Frequent Elements][347]                              | [Python][347a]             | Medium     |
+| 367  | [Valid Perfect Square][367]                                 | [Python][367a]             | Easy       |
 | 380  | [Insert Delete GetRandom O(1)][380]                         | [Python][380a]             | Medium     |
 | 387  | [First Unique Character in a String][387]                   | [Python][387a]             | Easy       |
 | 392  | [Is Subsequence][392]                                       | [Python][392a]             | Easy       |
@@ -408,6 +409,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [347]: https://leetcode.com/problems/top-k-frequent-elements
 
 [347a]: ./src/topKFrequent/counter.py
+
+[367]: https://leetcode.com/problems/valid-perfect-square/
+
+[367a]: ./src/validPerfSq/sqrt.py
 
 [380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
 
