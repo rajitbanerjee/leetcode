@@ -83,6 +83,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 380  | [Insert Delete GetRandom O(1)][380]                         | [Python][380a]             | Medium     |
 | 387  | [First Unique Character in a String][387]                   | [Python][387a]             | Easy       |
 | 392  | [Is Subsequence][392]                                       | [Python][392a]             | Easy       |
+| 404  | [Sum of Left Leaves][404]                                   | [Python][404a]             | Easy       |
 | 406  | [Queue Reconstruction by Height][406]                       | [Python][406a]             | Medium     |
 | 409  | [Longest Palindrome][409]                                   | [Python][409a]             | Easy       |
 | 412  | [Fizz Buzz][412]                                            | [Python][412a]             | Easy       |
@@ -442,6 +443,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [392]: https://leetcode.com/problems/is-subsequence/
 
 [392a]: ./src/isSubsequence/sub.py
+
+[404]: https://leetcode.com/problems/sum-of-left-leaves/
+
+[404a]: ./src/sumLeftLeaves/sum.py
 
 [406]: https://leetcode.com/problems/queue-reconstruction-by-height
 
