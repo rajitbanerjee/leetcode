@@ -115,6 +115,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1143 | [Longest Common Subsequence][1143]                          | [Python][1143a]            | Medium     |
 | 1237 | [Find Positive Integer Solution for a Given Equation][1237] | [Python][1237a]            | Easy       |
 | 1275 | [Find Winner on a Tic Tac Toe Game][1275]                   | [Python][1275a]            | Easy       |
+| 1337 | [The K Weakest Rows in a Matrix][1337]                      | [Python][1337a]            | Easy       |
 | 1342 | [Number of Steps to Reduce a Number to Zero][1342]          | [Python][1342a]            | Easy       |
 | 1344 | [Angle Between Hands of a Clock][1344]                      | [Python][1344a]            | Medium     |
 | 1351 | [Count Negative Numbers in a Sorted Matrix][1351]           | [Python][1351a]            | Easy       |
@@ -420,7 +421,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
 
-[349a]: ./src/intersectionArr/arr.py 
+[349a]: ./src/intersectionArr/arr.py
 
 [367]: https://leetcode.com/problems/valid-perfect-square/
 
@@ -569,6 +570,10 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
 
 [1275a]: ./src/ticTacToe/winner.py
+
+[1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+
+[1337a]: ./src/weakestRows/weak.py
 
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
