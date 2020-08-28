@@ -105,6 +105,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 783  | [Minimum Distance Between BST Nodes][783]                   | [Python][783a]             | Easy       |
 | 788  | [Rotated Digits][788]                                       | [Python][788a]             | Easy       |
 | 824  | [Goat Latin][824]                                           | [Python][824a]             | Easy       |
+| 852  | [ Peak Index in a Mountain Array][852]                      | [Python][852a]             | Easy       |
 | 875  | [Koko Eating Bananas][875]                                  | [Python][875a]             | Medium     |
 | 938  | [Range Sum of BST][938]                                     | [Python][938a]             | Easy       |
 | 957  | [Prison Cells After N Days][957]                            | [Python][957a]             | Medium     |
@@ -125,481 +126,244 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 5479 | [Thousand Separator][5479]                                  | [Python][5479a]            | Easy       |
 
 [1]: https://leetcode.com/problems/two-sum/
-
 [1a]: ./src/twoSum/TwoSum.java
-
 [2]: https://leetcode.com/problems/add-two-numbers/
-
 [2a]: ./src/addTwoNumbers/add.py
-
 [7]: https://leetcode.com/problems/reverse-integer/
-
 [7a]: ./src/reverseInteger/RevInt.java
-
 [8]: https://leetcode.com/problems/string-to-integer-atoi/
-
 [8a]: ./src/stringToInt/atoi.py
-
 [9]: https://leetcode.com/problems/palindrome-number/
-
 [9a]: ./src/palindromeInteger/Palin.java
-
 [13]: https://leetcode.com/problems/roman-to-integer/
-
 [13a]: ./src/romanToInteger/RomToInt.java
-
 [14]: https://leetcode.com/problems/longest-common-prefix/
-
 [14a]: ./src/longestCommonPrefix/Prefix.java
-
 [20]: https://leetcode.com/problems/valid-parentheses/
-
 [20a]: ./src/validParentheses/Brackets.java
-
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
-
 [21a]: ./src/mergeSortedLists/Merge.java
-
 [22]: https://leetcode.com/problems/generate-parentheses/
-
 [22a]: ./src/genParentheses/brackets.py
-
 [24]: https://leetcode.com/problems/swap-nodes-in-pairs/
-
 [24a]: ./src/swapNodePairs/swap.py
-
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-
 [26a]: ./src/removeDupSorted/Remove.java
-
 [27]: https://leetcode.com/problems/remove-element/
-
 [27a]: ./src/removeElement/Remove.java
-
 [28]: https://leetcode.com/problems/implement-strstr/
-
 [28a]: ./src/implementStrStr/Implement.java
-
 [30]: https://leetcode.com/problems/substring-with-concatenation-of-all-words/
-
 [30a]: ./src/substringWordConcat/sub.py
-
 [35]: https://leetcode.com/problems/search-insert-position/
-
 [35a]: ./src/searchInsertPosition/Search.java
-
 [35b]: ./src/searchInsertPosition/search.py
-
 [38]: https://leetcode.com/problems/count-and-say/
-
 [38a]: ./src/countAndSay/count.py
-
 [39]: https://leetcode.com/problems/combination-sum/
-
 [39a]: ./src/comboSum/sum.py
-
 [41]: https://leetcode.com/problems/first-missing-positive/
-
 [41a]: ./src/firstMissingPositive/first.py
-
 [50]: https://leetcode.com/problems/powx-n/
-
 [50a]: ./src/powxn/pow.py
-
 [53]: https://leetcode.com/problems/maximum-subarray/
-
 [53a]: ./src/maximumSubarray/max.py
-
 [58]: https://leetcode.com/problems/length-of-last-word/
-
 [58a]: ./src/lengthOfLastWord/Word.java
-
 [60]: https://leetcode.com/problems/permutation-sequence/
-
 [60a]: ./src/permSequence/perm.py
-
 [62]: https://leetcode.com/problems/unique-paths/
-
 [62a]: ./src/uniquePaths/unique.py
-
 [66]: https://leetcode.com/problems/plus-one/
-
 [66a]: ./src/plusOne/Plus.java
-
 [66b]: ./src/plusOne/plus.py
-
 [67]: https://leetcode.com/problems/add-binary/
-
 [67a]: ./src/addBinary/add.py
-
 [69]: https://leetcode.com/problems/sqrtx/
-
 [69a]: ./src/sqrtX/Sqrt.java
-
 [75]: https://leetcode.com/problems/sort-colors/
-
 [75a]: ./src/sortColors/sort.py
-
 [78]: https://leetcode.com/problems/subsets/
-
 [78a]: ./src/subsets/sub.py
-
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
-
 [94a]: ./src/treeInorder/inorder.py
-
 [96]: https://leetcode.com/problems/unique-binary-search-trees/
-
 [96a]: ./src/uniqueBST/bst.py
-
 [100]: https://leetcode.com/problems/same-tree/
-
 [100a]: ./src/sameTree/same.py
-
 [101]: https://leetcode.com/problems/symmetric-tree/
-
 [101a]: ./src/symmetricTree/symm.py
-
 [102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
-
 [102a]: ./src/treeLevelOrder/tree.py
-
 [103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
-
 [103a]: ./src/zigzagLevelOrder/tree.py
-
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
-
 [107a]: ./src/levelOrderII/level.py
-
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
-
 [108a]: ./src/sortedArrayToBST/bst.py
-
 [118]: https://leetcode.com/problems/pascals-triangle/
-
 [118a]: ./src/pascalsTriangle/pascal.py
-
 [119]: https://leetcode.com/problems/pascals-triangle-ii/
-
 [119a]: ./src/pascalsTriangleII/pascal.py
-
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
 [121a]: ./src/bestTimeStock/profit.py
-
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
-
 [122a]: ./src/bestTimeStockII/profit.py
-
 [125]: https://leetcode.com/problems/valid-palindrome/
-
 [125a]: ./src/validPalin/drome.py
-
 [129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
-
 [129a]: ./src/sumRootToLeaf/sum.py
-
 [130]: https://leetcode.com/problems/surrounded-regions/
-
 [130a]: ./src/surroundedRegions/board.py
-
 [136]: https://leetcode.com/problems/single-number/
-
 [136a]: ./src/singleNum/lonely.py
-
 [137]: https://leetcode.com/problems/single-number-ii/
-
 [137a]: ./src/singleNumberII/once.py
-
 [143]: https://leetcode.com/problems/reorder-list/
-
 [143a]: ./src/reorderList/reord.py
-
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
-
 [151a]: ./src/reverseWords/rev.py
-
 [154]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
-
 [154a]: ./src/findMinRotatedII/min.py
-
 [171]: https://leetcode.com/problems/excel-sheet-column-number
-
 [171a]: ./src/excelSheetColNum/excel.py
-
 [189]: https://leetcode.com/problems/rotate-array/
-
 [189a]: ./src/rotateArray/rotate.py
-
 [190]: https://leetcode.com/problems/reverse-bits/
-
 [190a]: ./src/reverseBits/rev.py
-
 [198]: https://leetcode.com/problems/house-robber/
-
 [198a]: ./src/houseRobber/rob.py
-
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
-
 [203a]: ./src/removeLinkedElement/rem.py
-
 [204]: https://leetcode.com/problems/count-primes/
-
 [204a]: ./src/countPrimes/Prime.java
-
 [206]: https://leetcode.com/problems/reverse-linked-list/
-
 [206a]: ./src/revList/rev.py
-
 [217]: https://leetcode.com/problems/contains-duplicate/
-
 [217a]: ./src/containsDuplicate/dup.py
-
 [222]: https://leetcode.com/problems/count-complete-tree-nodes/
-
 [222a]: ./src/countTreeNodes/count.py
-
 [226]: https://leetcode.com/problems/invert-binary-tree/
-
 [226a]: ./src/invertBinaryTree/Invert.java
-
 [231]: https://leetcode.com/problems/power-of-two/
-
 [231a]: ./src/powerOf2/power.py
-
 [234]: https://leetcode.com/problems/palindrome-linked-list/
-
 [234a]: ./src/palindromeList/linked.py
-
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
-
 [237a]: ./src/deleteListNode/delete.py
-
 [242]: https://leetcode.com/problems/valid-anagram/
-
 [242a]: ./src/validAnagram/ana.py
-
 [258]: https://leetcode.com/problems/add-digits/
-
 [258a]: ./src/addDigits/add.py
-
 [260]: https://leetcode.com/problems/single-number-iii/
-
 [260a]: ./src/singleNumIII/num.py
-
 [264]: https://leetcode.com/problems/ugly-number-ii/
-
 [264a]: ./src/uglyNumberII/ugly.py
-
 [274]: https://leetcode.com/problems/h-index/
-
 [274a]: ./src/hIndex/index.py
-
 [275]: https://leetcode.com/problems/h-index-ii/
-
 [275a]: ./src/hIndexII/index.py
-
 [278]: https://leetcode.com/problems/first-bad-version/
-
 [278a]: ./src/firstBadVersion/first.py
-
 [287]: https://leetcode.com/problems/find-the-duplicate-number/
-
 [287a]: ./src/findDuplicateNum/find.py
-
 [342]: https://leetcode.com/problems/power-of-four/
-
 [342a]: ./src/powerOfFour/four.py
-
 [344]: https://leetcode.com/problems/reverse-string/
-
 [344a]: ./src/reverseString/rev.py
-
 [347]: https://leetcode.com/problems/top-k-frequent-elements
-
 [347a]: ./src/topKFrequent/counter.py
-
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
-
 [349a]: ./src/intersectionArr/arr.py
-
 [367]: https://leetcode.com/problems/valid-perfect-square/
-
 [367a]: ./src/validPerfSq/sqrt.py
-
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
-
 [374a]: ./src/guessNum/guess.py
-
 [380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
-
 [380a]: ./src/insertDelecte/set.py
-
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
-
 [387a]: ./src/firstUniqueChar/unique.py
-
 [392]: https://leetcode.com/problems/is-subsequence/
-
 [392a]: ./src/isSubsequence/sub.py
-
 [404]: https://leetcode.com/problems/sum-of-left-leaves/
-
 [404a]: ./src/sumLeftLeaves/sum.py
-
 [406]: https://leetcode.com/problems/queue-reconstruction-by-height
-
 [406a]: ./src/queueReconstruct/queue.py
-
 [409]: https://leetcode.com/problems/longest-palindrome/
-
 [409a]: ./src/longestPalin/drome.py
-
 [412]: https://leetcode.com/problems/fizz-buzz/
-
 [412a]: ./src/fizzBuzz/fizz.py
-
 [415]: https://leetcode.com/problems/add-strings/
-
 [415a]: ./src/addStrings/add.py
-
 [441]: https://leetcode.com/problems/arranging-coins/
-
 [441a]: ./src/arrangingCoins/coins.py
-
 [461]: https://leetcode.com/problems/hamming-distance/
-
 [461a]: ./src/hammingDist/hamming.py
-
 [463]: https://leetcode.com/problems/island-perimeter/
-
 [463a]: ./src/islandPerimeter/peri.py
-
 [468]: https://leetcode.com/problems/validate-ip-address/
-
 [468a]: ./src/validateIP/ip.py
-
 [518]: https://leetcode.com/problems/coin-change-2/
-
 [518a]: ./src/coinChange2/change.py
-
 [528]: https://leetcode.com/problems/random-pick-with-weight/
-
 [528a]: ./src/randomPickWeight/weights.py
-
 [560]: https://leetcode.com/problems/subarray-sum-equals-k/
-
 [560a]: ./src/subarraySumK/sum.py
-
 [590]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
-
 [590a]: ./src/naryTreePostorder/post.py
-
 [617]: https://leetcode.com/problems/merge-two-binary-trees/
-
 [617a]: ./src/mergeBinaryTrees/merge.py
-
 [690]: https://leetcode.com/problems/employee-importance/
-
 [690a]: ./src/empImportance/emp.py
-
 [700]: https://leetcode.com/problems/search-in-a-binary-search-tree/
-
 [700a]: ./src/searchBST/search.py
-
 [704]: https://leetcode.com/problems/binary-search/
-
 [704a]: ./src/binarySearch/search.py
-
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-
 [744a]: ./src/smallestLetter/target.py
-
 [771]: https://leetcode.com/problems/jewels-and-stones/
-
 [771a]: ./src/jewelsAndStones/js.py
-
 [783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
-
 [783a]: ./src/minimumDistBST/dist.py
-
 [788]: https://leetcode.com/problems/rotated-digits/
-
 [788a]: ./src/rotatedDigits/dig.py
-
 [824]: https://leetcode.com/problems/goat-latin/
-
 [824a]: ./src/goatLatin/goat.py
-
+[852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[852a]: ./src/peakIndex/peak.py
 [875]: https://leetcode.com/problems/koko-eating-bananas/
-
 [875a]: ./src/kokoBananas/koko.py
-
 [938]: https://leetcode.com/problems/range-sum-of-bst/
-
 [938a]: ./src/rangeSumBST/sum.py
-
 [957]: https://leetcode.com/problems/prison-cells-after-n-days/
-
 [957a]: ./src/prisonNDays/prison.py
-
 [967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
-
 [967a]: ./src/numsConsecDiff/nums.py
-
 [1025]: https://leetcode.com/problems/divisor-game/
-
 [1025a]: ./src/divisorGame/game.py
-
 [1029]: https://leetcode.com/problems/two-city-scheduling/
-
 [1029a]: ./src/twoCityScheduling/sched.py
-
 [1032]: https://leetcode.com/problems/stream-of-characters/
-
 [1032a]: ./src/streamOfChars/stream.py
-
 [1137]: https://leetcode.com/problems/n-th-tribonacci-number/
-
 [1137a]: ./src/nthTribonacciNumber/Tribonacci.java
-
 [1143]: https://leetcode.com/problems/longest-common-subsequence/
-
 [1143a]: ./src/longestCommonSub/lcs.py
-
 [1237]: https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
-
 [1237a]: ./src/posIntegerSoln/sol.py
-
 [1275]: https://leetcode.com/problems/find-winner-on-a-tic-toe-game/
-
 [1275a]: ./src/ticTacToe/winner.py
-
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
-
 [1337a]: ./src/weakestRows/weak.py
-
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
-
 [1342a]: ./src/stepsToZero/steps.py
-
 [1344]: https://leetcode.com/problems/angle-between-hands-of-a-clock/
-
 [1344a]: ./src/angleHandsClock/angle.py
-
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
-
 [1351a]: ./src/countNegNumsMatrix/count.py
-
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
-
 [1460a]: ./src/twoArraysEqual/arr.py
-
 [1496]: https://leetcode.com/problems/path-crossing/
-
 [1496a]: ./src/pathCrossing/path.py
-
 [5479]: https://leetcode.com/contest/biweekly-contest-33/problems/thousand-separator/
-
 [5479a]: ./src/thousandSep/sep.py
