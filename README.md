@@ -108,6 +108,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 852  | [ Peak Index in a Mountain Array][852]                      | [Python][852a]             | Easy       |
 | 875  | [Koko Eating Bananas][875]                                  | [Python][875a]             | Medium     |
 | 938  | [Range Sum of BST][938]                                     | [Python][938a]             | Easy       |
+| 949  | [Largest Time for Given Digits][949]                        | [Python][949a]             | Easy       |
 | 957  | [Prison Cells After N Days][957]                            | [Python][957a]             | Medium     |
 | 967  | [Numbers With Same Consecutive Differences][967]            | [Python][967a]             | Medium     |
 | 1025 | [Divisor Game][1025]                                        | [Python][1025a]            | Easy       |
@@ -335,6 +336,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [875a]: ./src/kokoBananas/koko.py
 [938]: https://leetcode.com/problems/range-sum-of-bst/
 [938a]: ./src/rangeSumBST/sum.py
+[949]: https://leetcode.com/problems/largest-time-for-given-digits/
+[949a]: ./src/largestTime/digits.py
 [957]: https://leetcode.com/problems/prison-cells-after-n-days/
 [957a]: ./src/prisonNDays/prison.py
 [967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
