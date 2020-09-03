@@ -65,6 +65,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 226  | [Invert Binary Tree][226]                                   | [Java][226a]               | Easy       |
 | 231  | [Power of Two][231]                                         | [Python][231a]             | Easy       |
 | 234  | [Palindrome Linked List][234]                               | [Python][234a]             | Easy       |
+| 236  | [Lowest Common Ancestor of a Binary Tree][236]              | [Python][236a]             | Medium     |
 | 237  | [Delete Node in a Linked List][237]                         | [Python][237a]             | Easy       |
 | 242  | [Valid Anagram][242]                                        | [Python][242a]             | Easy       |
 | 258  | [Add Digits][258]                                           | [Python][258a]             | Easy       |
@@ -251,6 +252,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [231a]: ./src/powerOf2/power.py
 [234]: https://leetcode.com/problems/palindrome-linked-list/
 [234a]: ./src/palindromeList/linked.py
+[236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+[236a]: ./src/lowestCommon/ancestor.py
 [237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
 [237a]: ./src/deleteListNode/delete.py
 [242]: https://leetcode.com/problems/valid-anagram/
