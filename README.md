@@ -27,7 +27,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 53   | [Maximum Subarray][53]                                      | [Python][53a]              | Easy       |
 | 58   | [Length of Last Word][58]                                   | [Java][58a]                | Easy       |
 | 60   | [Permutation Sequence][60]                                  | [Python][60a]              | Medium     |
-| 62   | [Unique Paths][62]                                          | [Python][62a]              | Medium     |
+| 62   | [Unique Paths][62]                                          | [Python][62a], [Java][62b] | Medium     |
 | 66   | [Plus One][66]                                              | [Java][66a], [Python][66b] | Easy       |
 | 67   | [Add Binary][67]                                            | [Python][67a]              | Easy       |
 | 69   | [Sqrt(x)][69]                                               | [Java][69a]                | Easy       |
@@ -175,6 +175,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [60a]: ./src/permSequence/perm.py
 [62]: https://leetcode.com/problems/unique-paths/
 [62a]: ./src/uniquePaths/unique.py
+[62b]: ./src/uniquePaths/Unique.java
 [66]: https://leetcode.com/problems/plus-one/
 [66a]: ./src/plusOne/Plus.java
 [66b]: ./src/plusOne/plus.py
