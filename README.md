@@ -31,6 +31,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 66   | [Plus One][66]                                              | [Java][66a], [Python][66b] | Easy       |
 | 67   | [Add Binary][67]                                            | [Python][67a]              | Easy       |
 | 69   | [Sqrt(x)][69]                                               | [Java][69a]                | Easy       |
+| 70   | [Climbing Stairs][70]                                       | [Python][70a]              | Easy       |
 | 75   | [Sort Colors][75]                                           | [Python][75a]              | Medium     |
 | 78   | [Subsets][78]                                               | [Python][78a]              | Medium     |
 | 94   | [Binary Tree Inorder Traversal][94]                         | [Python][94a]              | Medium     |
@@ -186,6 +187,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [67a]: ./src/addBinary/add.py
 [69]: https://leetcode.com/problems/sqrtx/
 [69a]: ./src/sqrtX/Sqrt.java
+[70]: https://leetcode.com/problems/climbing-stairs/
+[70a]: ./src/climbStairs/ways.py
 [75]: https://leetcode.com/problems/sort-colors/
 [75a]: ./src/sortColors/sort.py
 [78]: https://leetcode.com/problems/subsets/
