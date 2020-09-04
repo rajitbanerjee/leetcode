@@ -77,6 +77,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 275  | [H-Index II][275]                                           | [Python][275a]             | Medium     |
 | 278  | [First Bad Version][278]                                    | [Python][278a]             | Easy       |
 | 287  | [Find the Duplicate Number][287]                            | [Python][287a]             | Medium     |
+| 303  | [Range Sum Query - Immutable][303]                          | [Python][303a]             | Easy       |
 | 342  | [Power of Four][342]                                        | [Python][342a]             | Easy       |
 | 344  | [Reverse String][344]                                       | [Python][344a]             | Easy       |
 | 347  | [Top K Frequent Elements][347]                              | [Python][347a]             | Medium     |
@@ -279,6 +280,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [278a]: ./src/firstBadVersion/first.py
 [287]: https://leetcode.com/problems/find-the-duplicate-number/
 [287a]: ./src/findDuplicateNum/find.py
+[303]: https://leetcode.com/problems/range-sum-query-immutable/
+[303a]: ./src/rangeSum/query.py
 [342]: https://leetcode.com/problems/power-of-four/
 [342a]: ./src/powerOfFour/four.py
 [344]: https://leetcode.com/problems/reverse-string/
