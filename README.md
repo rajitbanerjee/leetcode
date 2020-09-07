@@ -53,6 +53,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 137  | [Single Number II][137]                                     | [Python][137a]             | Medium     |
 | 143  | [Reorder List][143]                                         | [Python][143a]             | Medium     |
 | 151  | [Reverse Words in a String][151]                            | [Python][151a]             | Medium     |
+| 152  | [Maximum Product Subarray][152]                             | [Python][152a]             | Medium     |
 | 154  | [Reverse Words in a String][154]                            | [Python][154a]             | Hard       |
 | 167  | [Two Sum II][167]                                           | [Python][167a]             | Easy       |
 | 171  | [Excel Sheet Column Number][171]                            | [Python][171a]             | Easy       |
@@ -234,6 +235,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [143a]: ./src/reorderList/reord.py
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [151a]: ./src/reverseWords/rev.py
+[152]: https://leetcode.com/problems/maximum-product-subarray/
+[152a]: ./src/maxProdSub/max.py
 [154]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [154a]: ./src/findMinRotatedII/min.py
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
