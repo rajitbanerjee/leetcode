@@ -40,6 +40,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 101  | [Symmetric Tree][101]                                       | [Python][101a]             | Easy       |
 | 102  | [Binary Tree Level Order Traversal][102]                    | [Python][102a]             | Medium     |
 | 103  | [Binary Tree Zigzag Level Order Traversal][103]             | [Python][103a]             | Medium     |
+| 104  | [Maximum Depth of Binary Tree][104]                         | [Python][104a]             | Easy       |
 | 107  | [Binary Tree Level Order Traversal II][107]                 | [Python][107a]             | Easy       |
 | 108  | [Convert Sorted Array to Binary Search Tree][108]           | [Python][108a]             | Easy       |
 | 118  | [Pascal's Triangle][118]                                    | [Python][118a]             | Easy       |
@@ -210,6 +211,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [102a]: ./src/treeLevelOrder/tree.py
 [103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 [103a]: ./src/zigzagLevelOrder/tree.py
+[104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[104a]: ./src/maxDepth/tree.py
 [107]: https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 [107a]: ./src/levelOrderII/level.py
 [108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
