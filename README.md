@@ -81,6 +81,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 278  | [First Bad Version][278]                                    | [Python][278a]             | Easy       |
 | 287  | [Find the Duplicate Number][287]                            | [Python][287a]             | Medium     |
 | 303  | [Range Sum Query - Immutable][303]                          | [Python][303a]             | Easy       |
+| 322  | [Coin Change][322]                                          | [Python][322a]             | Medium     |
 | 342  | [Power of Four][342]                                        | [Python][342a]             | Easy       |
 | 344  | [Reverse String][344]                                       | [Python][344a]             | Easy       |
 | 347  | [Top K Frequent Elements][347]                              | [Python][347a]             | Medium     |
@@ -293,6 +294,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [287a]: ./src/findDuplicateNum/find.py
 [303]: https://leetcode.com/problems/range-sum-query-immutable/
 [303a]: ./src/rangeSum/query.py
+[322]: https://leetcode.com/problems/coin-change/
+[322a]: ./src/coinChange/change.py
 [342]: https://leetcode.com/problems/power-of-four/
 [342a]: ./src/powerOfFour/four.py
 [344]: https://leetcode.com/problems/reverse-string/
