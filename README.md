@@ -79,6 +79,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 274  | [H-Index][274]                                              | [Python][274a]             | Medium     |
 | 275  | [H-Index II][275]                                           | [Python][275a]             | Medium     |
 | 278  | [First Bad Version][278]                                    | [Python][278a]             | Easy       |
+| 283  | [Move Zeroes][283]                                          | [Python][283a]             | Easy       |
 | 287  | [Find the Duplicate Number][287]                            | [Python][287a]             | Medium     |
 | 303  | [Range Sum Query - Immutable][303]                          | [Python][303a]             | Easy       |
 | 322  | [Coin Change][322]                                          | [Python][322a]             | Medium     |
@@ -290,6 +291,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [275a]: ./src/hIndexII/index.py
 [278]: https://leetcode.com/problems/first-bad-version/
 [278a]: ./src/firstBadVersion/first.py
+[283]: https://leetcode.com/problems/move-zeroes/
+[283a]: ./src/moveZeroes/move.py
 [287]: https://leetcode.com/problems/find-the-duplicate-number/
 [287a]: ./src/findDuplicateNum/find.py
 [303]: https://leetcode.com/problems/range-sum-query-immutable/
