@@ -57,6 +57,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 152  | [Maximum Product Subarray][152]                             | [Python][152a]             | Medium     |
 | 154  | [Reverse Words in a String][154]                            | [Python][154a]             | Hard       |
 | 167  | [Two Sum II][167]                                           | [Python][167a]             | Easy       |
+| 169  | [Majority Element][169]                                     | [Python][169a]             | Easy       |
 | 171  | [Excel Sheet Column Number][171]                            | [Python][171a]             | Easy       |
 | 189  | [Rotate Array][189]                                         | [Python][189a]             | Easy       |
 | 190  | [Reverse Bits][190]                                         | [Python][190a]             | Easy       |
@@ -247,6 +248,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [154a]: ./src/findMinRotatedII/min.py
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [167a]: ./src/twoSumII/search.py
+[169]: https://leetcode.com/problems/majority-element/
+[169a]: ./src/majorityElem/maj.py
 [171]: https://leetcode.com/problems/excel-sheet-column-number
 [171a]: ./src/excelSheetColNum/excel.py
 [189]: https://leetcode.com/problems/rotate-array/
