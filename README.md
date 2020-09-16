@@ -6,6 +6,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | ---- | ------------------------------------------------------------- | -------------------------- | ---------- |
 | 1    | [Two Sum][1]                                                  | [Java][1a], [Python][1b]   | Easy       |
 | 2    | [Add Two Numbers][2]                                          | [Python][2a]               | Medium     |
+| 3    | [Longest Substring Without Repeating Characters]              | [Python][3a]               | Medium     |
 | 7    | [Reverse Integer][7]                                          | [Java][7a]                 | Easy       |
 | 8    | [String to Integer (atoi)][8]                                 | [Python][8a]               | Medium     |
 | 9    | [Palindrome Number][9]                                        | [Java][9a]                 | Easy       |
@@ -145,6 +146,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1b]: ./src/twoSum/two.py
 [2]: https://leetcode.com/problems/add-two-numbers/
 [2a]: ./src/addTwoNumbers/add.py
+[3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[3a]: ./src/longestSub/len.py
 [7]: https://leetcode.com/problems/reverse-integer/
 [7a]: ./src/reverseInteger/RevInt.java
 [8]: https://leetcode.com/problems/string-to-integer-atoi/
