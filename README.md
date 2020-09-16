@@ -4,7 +4,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 
 | #    | Title                                                         | Solution                   | Difficulty |
 | ---- | ------------------------------------------------------------- | -------------------------- | ---------- |
-| 1    | [Two Sum][1]                                                  | [Java][1a]                 | Easy       |
+| 1    | [Two Sum][1]                                                  | [Java][1a], [Python][1b]   | Easy       |
 | 2    | [Add Two Numbers][2]                                          | [Python][2a]               | Medium     |
 | 7    | [Reverse Integer][7]                                          | [Java][7a]                 | Easy       |
 | 8    | [String to Integer (atoi)][8]                                 | [Python][8a]               | Medium     |
@@ -142,6 +142,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 
 [1]: https://leetcode.com/problems/two-sum/
 [1a]: ./src/twoSum/TwoSum.java
+[1b]: ./src/twoSum/two.py
 [2]: https://leetcode.com/problems/add-two-numbers/
 [2a]: ./src/addTwoNumbers/add.py
 [7]: https://leetcode.com/problems/reverse-integer/
