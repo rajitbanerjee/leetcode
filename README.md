@@ -6,7 +6,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | ---- | ------------------------------------------------------------- | -------------------------- | ---------- |
 | 1    | [Two Sum][1]                                                  | [Java][1a], [Python][1b]   | Easy       |
 | 2    | [Add Two Numbers][2]                                          | [Python][2a]               | Medium     |
-| 3    | [Longest Substring Without Repeating Characters]              | [Python][3a]               | Medium     |
+| 3    | [Longest Substring Without Repeating Characters][3]           | [Python][3a]               | Medium     |
 | 7    | [Reverse Integer][7]                                          | [Java][7a]                 | Easy       |
 | 8    | [String to Integer (atoi)][8]                                 | [Python][8a]               | Medium     |
 | 9    | [Palindrome Number][9]                                        | [Java][9a]                 | Easy       |
@@ -128,6 +128,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1025 | [Divisor Game][1025]                                          | [Python][1025a]            | Easy       |
 | 1029 | [Two City Scheduling][1029]                                   | [Python][1029a]            | Easy       |
 | 1032 | [Stream of Characters][1032]                                  | [Python][1032a]            | Hard       |
+| 1041 | [Robot Bounded In Circle][1041]                               | [Python][1041a]            | Medium     |
 | 1137 | [N-th Tribonacci Number][1137]                                | [Java][1137a]              | Easy       |
 | 1143 | [Longest Common Subsequence][1143]                            | [Python][1143a]            | Medium     |
 | 1237 | [Find Positive Integer Solution for a Given Equation][1237]   | [Python][1237a]            | Easy       |
@@ -394,6 +395,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1029a]: ./src/twoCityScheduling/sched.py
 [1032]: https://leetcode.com/problems/stream-of-characters/
 [1032a]: ./src/streamOfChars/stream.py
+[1041]: https://leetcode.com/problems/robot-bounded-in-circle/
+[1041a]: ./src/robotBounded/robot.py
 [1137]: https://leetcode.com/problems/n-th-tribonacci-number/
 [1137a]: ./src/nthTribonacciNumber/Tribonacci.java
 [1143]: https://leetcode.com/problems/longest-common-subsequence/
