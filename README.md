@@ -121,6 +121,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 824  | [Goat Latin][824]                                             | [Python][824a]             | Easy       |
 | 852  | [ Peak Index in a Mountain Array][852]                        | [Python][852a]             | Easy       |
 | 875  | [Koko Eating Bananas][875]                                    | [Python][875a]             | Medium     |
+| 896  | [Monotonic Array][896]                                        | [Python][896a]             | Easy       |
 | 938  | [Range Sum of BST][938]                                       | [Python][938a]             | Easy       |
 | 949  | [Largest Time for Given Digits][949]                          | [Python][949a]             | Easy       |
 | 957  | [Prison Cells After N Days][957]                              | [Python][957a]             | Medium     |
@@ -382,6 +383,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [852a]: ./src/peakIndex/peak.py
 [875]: https://leetcode.com/problems/koko-eating-bananas/
 [875a]: ./src/kokoBananas/koko.py
+[896]: https://leetcode.com/problems/monotonic-array/
+[896a]: ./src/monoArray/tonic.py
 [938]: https://leetcode.com/problems/range-sum-of-bst/
 [938a]: ./src/rangeSumBST/sum.py
 [949]: https://leetcode.com/problems/largest-time-for-given-digits/
