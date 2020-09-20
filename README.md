@@ -36,6 +36,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 70   | [Climbing Stairs][70]                                         | [Python][70a]              | Easy       |
 | 75   | [Sort Colors][75]                                             | [Python][75a]              | Medium     |
 | 78   | [Subsets][78]                                                 | [Python][78a]              | Medium     |
+| 83   | [Remove Duplicates from Sorted List][83]                      | [Python][83a]              | Easy       |
 | 94   | [Binary Tree Inorder Traversal][94]                           | [Python][94a]              | Medium     |
 | 96   | [Unique Binary Search Trees][96]                              | [Python][96a]              | Medium     |
 | 100  | [Same Tree][100]                                              | [Python][100a]             | Easy       |
@@ -214,6 +215,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [75a]: ./src/sortColors/sort.py
 [78]: https://leetcode.com/problems/subsets/
 [78a]: ./src/subsets/sub.py
+[83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[83a]: ./src/removeDupsList/rem.py
 [94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [94a]: ./src/treeInorder/inorder.py
 [96]: https://leetcode.com/problems/unique-binary-search-trees/
