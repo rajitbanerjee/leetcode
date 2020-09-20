@@ -60,6 +60,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 151  | [Reverse Words in a String][151]                              | [Python][151a]             | Medium     |
 | 152  | [Maximum Product Subarray][152]                               | [Python][152a]             | Medium     |
 | 154  | [Reverse Words in a String][154]                              | [Python][154a]             | Hard       |
+| 160  | [Intersection of Two Linked Lists][160a]                      | [Python][160a]             | Easy       |
 | 167  | [Two Sum II][167]                                             | [Python][167a]             | Easy       |
 | 169  | [Majority Element][169]                                       | [Python][169a]             | Easy       |
 | 171  | [Excel Sheet Column Number][171]                              | [Python][171a]             | Easy       |
@@ -264,6 +265,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [152a]: ./src/maxProdSub/max.py
 [154]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 [154a]: ./src/findMinRotatedII/min.py
+[160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[160a]: ./src/listIntersect/inter.py
 [167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [167a]: ./src/twoSumII/search.py
 [169]: https://leetcode.com/problems/majority-element/
