@@ -55,6 +55,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 130  | [Surrounded Regions][130]                                     | [Python][130a]             | Medium     |
 | 136  | [Single Number][136]                                          | [Python][136a]             | Easy       |
 | 137  | [Single Number II][137]                                       | [Python][137a]             | Medium     |
+| 141  | [Linked List Cycle][141]                                      | [Python][141a]             | Easy       |
 | 143  | [Reorder List][143]                                           | [Python][143a]             | Medium     |
 | 151  | [Reverse Words in a String][151]                              | [Python][151a]             | Medium     |
 | 152  | [Maximum Product Subarray][152]                               | [Python][152a]             | Medium     |
@@ -253,6 +254,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [136a]: ./src/singleNum/lonely.py
 [137]: https://leetcode.com/problems/single-number-ii/
 [137a]: ./src/singleNumberII/once.py
+[141]: https://leetcode.com/problems/linked-list-cycle/
+[141a]: ./src/listCycle/floyd.py
 [143]: https://leetcode.com/problems/reorder-list/
 [143a]: ./src/reorderList/reord.py
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
