@@ -68,6 +68,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 189  | [Rotate Array][189]                                           | [Python][189a]             | Easy       |
 | 190  | [Reverse Bits][190]                                           | [Python][190a]             | Easy       |
 | 198  | [House Robber][198]                                           | [Python][198a]             | Easy       |
+| 202  | [Happy Number][203]                                           | [Python][203a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                            | [Python][203a]             | Easy       |
 | 204  | [Count Primes][204]                                           | [Java][204a]               | Easy       |
 | 206  | [Reverse Linked List][206]                                    | [Python][206a]             | Easy       |
@@ -284,6 +285,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [190a]: ./src/reverseBits/rev.py
 [198]: https://leetcode.com/problems/house-robber/
 [198a]: ./src/houseRobber/rob.py
+[202]: https://leetcode.com/problems/happy-number/
+[202a]: ./src/happyNum/cycle.py
 [203]: https://leetcode.com/problems/remove-linked-list-elements/
 [203a]: ./src/removeLinkedElement/rem.py
 [204]: https://leetcode.com/problems/count-primes/
