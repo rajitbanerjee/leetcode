@@ -105,6 +105,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 367  | [Valid Perfect Square][367]                                   | [Python][367a]             | Easy       |
 | 374  | [Guess Number Higher or Lower][374]                           | [Python][374a]             | Easy       |
 | 380  | [Insert Delete GetRandom O(1)][380]                           | [Python][380a]             | Medium     |
+| 383  | [Ransom Note][383a]                                           | [Python][383a]             | Easy       |
 | 387  | [First Unique Character in a String][387]                     | [Python][387a]             | Easy       |
 | 392  | [Is Subsequence][392]                                         | [Python][392a]             | Easy       |
 | 404  | [Sum of Left Leaves][404]                                     | [Python][404a]             | Easy       |
@@ -365,6 +366,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [374a]: ./src/guessNum/guess.py
 [380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
 [380a]: ./src/insertDelecte/set.py
+[383]: https://leetcode.com/problems/ransom-note/
+[383a]: ./src/ransomNote/note.py
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [387a]: ./src/firstUniqueChar/unique.py
 [392]: https://leetcode.com/problems/is-subsequence/
