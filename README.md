@@ -74,6 +74,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 205  | [Isomorphic Strings][205]                                     | [Python][205a]             | Easy       |
 | 206  | [Reverse Linked List][206]                                    | [Python][206a]             | Easy       |
 | 217  | [Contains Duplicate][217]                                     | [Python][217a]             | Easy       |
+| 219  | [ontains Duplicate II][219]                                   | [Python][219a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                              | [Python][222a]             | Medium     |
 | 226  | [Invert Binary Tree][226]                                     | [Java][226a]               | Easy       |
 | 231  | [Power of Two][231]                                           | [Python][231a]             | Easy       |
@@ -298,6 +299,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [206a]: ./src/revList/rev.py
 [217]: https://leetcode.com/problems/contains-duplicate/
 [217a]: ./src/containsDuplicate/dup.py
+[219]: https://leetcode.com/problems/contains-duplicate-ii/
+[219a]: ./src/duplicateII/dup.py
 [222]: https://leetcode.com/problems/count-complete-tree-nodes/
 [222a]: ./src/countTreeNodes/count.py
 [226]: https://leetcode.com/problems/invert-binary-tree/
