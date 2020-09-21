@@ -71,6 +71,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 202  | [Happy Number][203]                                           | [Python][203a]             | Easy       |
 | 203  | [Remove Linked List Elements][203]                            | [Python][203a]             | Easy       |
 | 204  | [Count Primes][204]                                           | [Java][204a]               | Easy       |
+| 205  | [Isomorphic Strings][205]                                     | [Python][205a]             | Easy       |
 | 206  | [Reverse Linked List][206]                                    | [Python][206a]             | Easy       |
 | 217  | [Contains Duplicate][217]                                     | [Python][217a]             | Easy       |
 | 222  | [Count Complete Tree Nodes][222]                              | [Python][222a]             | Medium     |
@@ -291,6 +292,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [203a]: ./src/removeLinkedElement/rem.py
 [204]: https://leetcode.com/problems/count-primes/
 [204a]: ./src/countPrimes/Prime.java
+[205]: https://leetcode.com/problems/isomorphic-strings/
+[205a]: ./src/isoStr/morph.py
 [206]: https://leetcode.com/problems/reverse-linked-list/
 [206a]: ./src/revList/rev.py
 [217]: https://leetcode.com/problems/contains-duplicate/
