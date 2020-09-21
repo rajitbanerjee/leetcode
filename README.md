@@ -83,6 +83,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 236  | [Lowest Common Ancestor of a Binary Tree][236]                | [Python][236a]             | Medium     |
 | 237  | [Delete Node in a Linked List][237]                           | [Python][237a]             | Easy       |
 | 242  | [Valid Anagram][242]                                          | [Python][242a]             | Easy       |
+| 257  | [Binary Tree Paths][257]                                      | [Python][257a]             | Easy       |
 | 258  | [Add Digits][258]                                             | [Python][258a]             | Easy       |
 | 260  | [Single Number III][260]                                      | [Python][260a]             | Medium     |
 | 264  | [Ugly Number II][264]                                         | [Python][264a]             | Medium     |
@@ -317,6 +318,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [237a]: ./src/deleteListNode/delete.py
 [242]: https://leetcode.com/problems/valid-anagram/
 [242a]: ./src/validAnagram/ana.py
+[257]: https://leetcode.com/problems/binary-tree-paths/
+[257a]: ./src/treePaths/trav.py
 [258]: https://leetcode.com/problems/add-digits/
 [258a]: ./src/addDigits/add.py
 [260]: https://leetcode.com/problems/single-number-iii/
