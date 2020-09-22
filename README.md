@@ -107,6 +107,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 380  | [Insert Delete GetRandom O(1)][380]                           | [Python][380a]             | Medium     |
 | 383  | [Ransom Note][383a]                                           | [Python][383a]             | Easy       |
 | 387  | [First Unique Character in a String][387]                     | [Python][387a]             | Easy       |
+| 389  | [Find the Difference][389]                                    | [Python][389a]             | Easy       |
 | 392  | [Is Subsequence][392]                                         | [Python][392a]             | Easy       |
 | 404  | [Sum of Left Leaves][404]                                     | [Python][404a]             | Easy       |
 | 406  | [Queue Reconstruction by Height][406]                         | [Python][406a]             | Medium     |
@@ -370,6 +371,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [383a]: ./src/ransomNote/note.py
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [387a]: ./src/firstUniqueChar/unique.py
+[389]: https://leetcode.com/problems/find-the-difference/
+[389a]: ./src/findDiff/find.py
 [392]: https://leetcode.com/problems/is-subsequence/
 [392a]: ./src/isSubsequence/sub.py
 [404]: https://leetcode.com/problems/sum-of-left-leaves/
