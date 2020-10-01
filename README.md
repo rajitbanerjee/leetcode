@@ -121,6 +121,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 518  | [Coin Change 2][518]                                          | [Python][518a]             | Medium     |
 | 528  | [Random Pick with Weight][528]                                | [Python][528a]             | Medium     |
 | 560  | [Subarray Sum Equals K][560]                                  | [Python][560a]             | Medium     |
+| 589  | [N-ary Tree Preorder Traversal][589]                          | [Python][589a]             | Easy       |
 | 590  | [N-ary Tree Postorder Traversal][590]                         | [Python][590a]             | Easy       |
 | 606  | [Construct String from Binary Tree][606]                      | [Python][606a]             | Easy       |
 | 617  | [Merge Two Binary Trees][617]                                 | [Python][617a]             | Easy       |
@@ -401,6 +402,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [528a]: ./src/randomPickWeight/weights.py
 [560]: https://leetcode.com/problems/subarray-sum-equals-k/
 [560a]: ./src/subarraySumK/sum.py
+[589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+[589a]: ./src/naryPreorder/trav.py
 [590]: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 [590a]: ./src/naryTreePostorder/post.py
 [606]: https://leetcode.com/problems/construct-string-from-binary-tree/
