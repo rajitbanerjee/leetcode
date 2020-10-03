@@ -121,6 +121,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 468  | [Validate IP Address][468]                                    | [Python][468a]             | Medium     |
 | 518  | [Coin Change 2][518]                                          | [Python][518a]             | Medium     |
 | 528  | [Random Pick with Weight][528]                                | [Python][528a]             | Medium     |
+| 559  | [Maximum Depth of N-ary Tree][559]                            | [Python][559a]             | Easy       |
 | 560  | [Subarray Sum Equals K][560]                                  | [Python][560a]             | Medium     |
 | 589  | [N-ary Tree Preorder Traversal][589]                          | [Python][589a]             | Easy       |
 | 590  | [N-ary Tree Postorder Traversal][590]                         | [Python][590a]             | Easy       |
@@ -403,6 +404,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [518a]: ./src/coinChange2/change.py
 [528]: https://leetcode.com/problems/random-pick-with-weight/
 [528a]: ./src/randomPickWeight/weights.py
+[559]: https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
+[559a]: ./src/naryDepth/max.py
 [560]: https://leetcode.com/problems/subarray-sum-equals-k/
 [560a]: ./src/subarraySumK/sum.py
 [589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
