@@ -59,6 +59,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 141  | [Linked List Cycle][141]                                      | [Python][141a]             | Easy       |
 | 143  | [Reorder List][143]                                           | [Python][143a]             | Medium     |
 | 144  | [Binary Tree Preorder Traversal][144]                         | [Python][144a]             | Medium     |
+| 146  | [LRU Cache][146]                                              | [Python][146a]             | Medium     |
 | 151  | [Reverse Words in a String][151]                              | [Python][151a]             | Medium     |
 | 152  | [Maximum Product Subarray][152]                               | [Python][152a]             | Medium     |
 | 154  | [Reverse Words in a String][154]                              | [Python][154a]             | Hard       |
@@ -281,6 +282,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [143a]: ./src/reorderList/reord.py
 [144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
 [144a]: ./src/binaryPreorder/trav.py
+[146]: https://leetcode.com/problems/lru-cache/
+[146a]: ./src/lruCache/lru.py
 [151]: https://leetcode.com/problems/reverse-words-in-a-string/
 [151a]: ./src/reverseWords/rev.py
 [152]: https://leetcode.com/problems/maximum-product-subarray/
