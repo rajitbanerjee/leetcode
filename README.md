@@ -12,7 +12,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 9    | [Palindrome Number][9]                                        | [Java][9a]                 | Easy       |
 | 13   | [Roman to Integer][13]                                        | [Java][13a]                | Easy       |
 | 14   | [Longest Common Prefix][14]                                   | [Java][14a], [Python][14b] | Easy       |
-| 20   | [Valid Parentheses][20]                                       | [Java][20a]                | Easy       |
+| 20   | [Valid Parentheses][20]                                       | [Java][20a], [Python][20b] | Easy       |
 | 21   | [Merge Two Sorted Lists][21]                                  | [Java][21a], [Python][21b] | Easy       |
 | 22   | [Generate Parentheses][22]                                    | [Python][22a]              | Medium     |
 | 24   | [Swap Nodes in Pairs][24]                                     | [Python][24a]              | Medium     |
@@ -186,6 +186,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [14b]: ./src/longestCommonPrefix/prefix.py
 [20]: https://leetcode.com/problems/valid-parentheses/
 [20a]: ./src/validParentheses/Brackets.java
+[20b]: ./src/validParentheses/brackets.py
 [21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [21a]: ./src/mergeSortedLists/Merge.java
 [21b]: ./src/mergeSortedLists/merge.py
