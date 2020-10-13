@@ -353,7 +353,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [264]: https://leetcode.com/problems/ugly-number-ii/
 [264a]: ./src/uglyNumberII/ugly.py
 [268]: https://leetcode.com/problems/missing-number/
-[278a]: ./src/missingNumber/num.py
+[268a]: ./src/missingNumber/num.py
 [274]: https://leetcode.com/problems/h-index/
 [274a]: ./src/hIndex/index.py
 [275]: https://leetcode.com/problems/h-index-ii/
