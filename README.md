@@ -26,6 +26,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 38   | [Count and Say][38]                                           | [Python][38a]              | Easy       |
 | 39   | [Combination Sum][39]                                         | [Python][39a]              | Medium     |
 | 41   | [First Missing Positive][41]                                  | [Python][41a]              | Hard       |
+| 48   | [Rotate Image][48]                                            | [Python][48a]              | Medium     |
 | 50   | [Pow(x, n)][50]                                               | [Python][50a]              | Medium     |
 | 53   | [Maximum Subarray][53]                                        | [Python][53a]              | Easy       |
 | 58   | [Length of Last Word][58]                                     | [Java][58a]                | Easy       |
@@ -216,6 +217,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [39a]: ./src/comboSum/sum.py
 [41]: https://leetcode.com/problems/first-missing-positive/
 [41a]: ./src/firstMissingPositive/first.py
+[48]: https://leetcode.com/problems/rotate-image/
+[48a]: ./src/rotateImage/rot.py
 [50]: https://leetcode.com/problems/powx-n/
 [50a]: ./src/powxn/pow.py
 [53]: https://leetcode.com/problems/maximum-subarray/
