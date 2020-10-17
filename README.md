@@ -70,6 +70,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 167  | [Two Sum II][167]                                             | [Python][167a]             | Easy       |
 | 169  | [Majority Element][169]                                       | [Python][169a]             | Easy       |
 | 171  | [Excel Sheet Column Number][171]                              | [Python][171a]             | Easy       |
+| 187  | [Repeated DNA Sequences][187]                                 | [Python][187a]             | Medium     |
 | 189  | [Rotate Array][189]                                           | [Python][189a]             | Easy       |
 | 190  | [Reverse Bits][190]                                           | [Python][190a]             | Easy       |
 | 198  | [House Robber][198]                                           | [Python][198a]             | Easy       |
@@ -308,6 +309,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [169a]: ./src/majorityElem/maj.py
 [171]: https://leetcode.com/problems/excel-sheet-column-number
 [171a]: ./src/excelSheetColNum/excel.py
+[187]: https://leetcode.com/problems/repeated-dna-sequences/
+[187a]: ./src/repeatedDNA/seq.py
 [189]: https://leetcode.com/problems/rotate-array/
 [189a]: ./src/rotateArray/rotate.py
 [190]: https://leetcode.com/problems/reverse-bits/
