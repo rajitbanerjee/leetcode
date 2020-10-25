@@ -168,6 +168,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1470 | [Shuffle the Array][1470]                                     | [Python][1470a]            | Easy       |
 | 1480 | [Running Sum of 1d Array][1480]                               | [Python][1480a]            | Easy       |
 | 1496 | [Path Crossing][1496]                                         | [Python][1496a]            | Easy       |
+| 1512 | [Number of Good Pairs][1512]                                  | [Python][1512a]            | Easy       |
 | 5479 | [Thousand Separator][5479]                                    | [Python][5479a]            | Easy       |
 
 [1]: https://leetcode.com/problems/two-sum/
@@ -505,5 +506,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1480a]: ./src/runningSum/sum.py
 [1496]: https://leetcode.com/problems/path-crossing/
 [1496a]: ./src/pathCrossing/path.py
+[1512]: https://leetcode.com/problems/number-of-good-pairs/
+[1512a]: ./src/goodPairs/num.py
 [5479]: https://leetcode.com/contest/biweekly-contest-33/problems/thousand-separator/
 [5479a]: ./src/thousandSep/sep.py
