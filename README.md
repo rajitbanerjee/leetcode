@@ -7,7 +7,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1    | [Two Sum][1]                                                  | [Java][1a], [Python][1b], [TypeScript][1c] | Easy       |
 | 2    | [Add Two Numbers][2]                                          | [Python][2a]                               | Medium     |
 | 3    | [Longest Substring Without Repeating Characters][3]           | [Python][3a]                               | Medium     |
-| 7    | [Reverse Integer][7]                                          | [Java][7a]                                 | Easy       |
+| 7    | [Reverse Integer][7]                                          | [Java][7a], [TypeScript][7b]               | Easy       |
 | 8    | [String to Integer (atoi)][8]                                 | [Python][8a]                               | Medium     |
 | 9    | [Palindrome Number][9]                                        | [Java][9a]                                 | Easy       |
 | 13   | [Roman to Integer][13]                                        | [Java][13a]                                | Easy       |
@@ -181,6 +181,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [3a]: ./src/longestSub/len.py
 [7]: https://leetcode.com/problems/reverse-integer/
 [7a]: ./src/reverseInteger/RevInt.java
+[7b]: ./src/reverseInteger/revInt.ts
 [8]: https://leetcode.com/problems/string-to-integer-atoi/
 [8a]: ./src/stringToInt/atoi.py
 [9]: https://leetcode.com/problems/palindrome-number/
