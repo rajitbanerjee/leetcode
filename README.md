@@ -154,6 +154,7 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 | 1029 | [Two City Scheduling][1029]                                   | [Python][1029a]                            | Easy       |
 | 1032 | [Stream of Characters][1032]                                  | [Python][1032a]                            | Hard       |
 | 1041 | [Robot Bounded In Circle][1041]                               | [Python][1041a]                            | Medium     |
+| 1108 | [Defanging an IP Address][1108]                               | [TypeScript][1108a]                        | Easy       |
 | 1137 | [N-th Tribonacci Number][1137]                                | [Java][1137a]                              | Easy       |
 | 1143 | [Longest Common Subsequence][1143]                            | [Python][1143a]                            | Medium     |
 | 1237 | [Find Positive Integer Solution for a Given Equation][1237]   | [Python][1237a]                            | Easy       |
@@ -480,6 +481,8 @@ My solutions to some problems from [LeetCode](https://leetcode.com/problemset/al
 [1032a]: ./src/streamOfChars/stream.py
 [1041]: https://leetcode.com/problems/robot-bounded-in-circle/
 [1041a]: ./src/robotBounded/robot.py
+[1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[1108a]: ./src/defangingIpAddress/ip.ts
 [1137]: https://leetcode.com/problems/n-th-tribonacci-number/
 [1137a]: ./src/nthTribonacciNumber/Tribonacci.java
 [1143]: https://leetcode.com/problems/longest-common-subsequence/
